@@ -1,0 +1,4311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language Name="Vietnamese" SupportedVersion="3.80">
+  <LocaleResource Name="aboutus">
+    <Value>Giới thiệu</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.AccountActivation">
+    <Value>Kích hoạt tài khoản</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.AccountActivation.Activated">
+    <Value>Your account has been activated</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Administration">
+    <Value>Administration</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.AssociatedExternalAuth">
+    <Value>External authentication</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.AssociatedExternalAuth.AddMoreRecords">
+    <Value>You can associate your account with some external authentication systems on the following page (login once using them):</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.AssociatedExternalAuth.AuthMethodName">
+    <Value>Authentication method</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.AssociatedExternalAuth.Email">
+    <Value>Email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.AssociatedExternalAuth.ExternalIdentifier">
+    <Value>External identifier</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.AssociatedExternalAuth.Remove">
+    <Value>Xóa</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.AssociatedExternalAuth.YourAccountWillBeLinkedTo">
+    <Value>Account Association: Your new user account will be linked to</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.AssociatedExternalAuth.YourAccountWillBeLinkedTo.Remove">
+    <Value>(remove)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Avatar">
+    <Value>Ảnh đại diện</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Avatar.MaximumUploadedFileSize">
+    <Value>Maximum avatar size is {0} bytes</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Avatar.RemoveAvatar">
+    <Value>xóa avatar</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Avatar.UploadRules">
+    <Value>Ảnh đại diện phải là định dạng GIF hoặc JPEG có kích thước tối đa 200 KB</Value>
+  </LocaleResource>
+  <LocaleResource Name="account.backinstocksubscriptions">
+    <Value>Thông báo khi có hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.BackInStockSubscriptions.DeleteSelected">
+    <Value>Delete selected</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.BackInStockSubscriptions.Description">
+    <Value>You will receive an e-mail when a particular product is back in stock.</Value>
+  </LocaleResource>
+  <LocaleResource Name="account.backinstocksubscriptions.nosubscriptions">
+    <Value>Bạn chưa đăng ký nhận thông báo khi có hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.BackInStockSubscriptions.ProductColumn">
+    <Value>Sản phẩm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword">
+    <Value>Đổi mật khẩu</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Button">
+    <Value>Đổi mật khẩu</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Errors.EmailIsNotProvided">
+    <Value>Email is not entered</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Errors.EmailNotFound">
+    <Value>The specified email could not be found</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Errors.OldPasswordDoesntMatch">
+    <Value>Mật khẩu cũ không đúng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Errors.PasswordIsNotProvided">
+    <Value>Password is not entered</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Fields.ConfirmNewPassword">
+    <Value>Xác nhận mật khẩu</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Fields.ConfirmNewPassword.Required">
+    <Value>Yêu cầu nhập mật khẩu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Fields.NewPassword">
+    <Value>Mật khẩu mới</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Fields.NewPassword.EnteredPasswordsDoNotMatch">
+    <Value>The new password and confirmation password do not match.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Fields.NewPassword.LengthValidation">
+    <Value>The password should have at least {0} characters.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Fields.NewPassword.Required">
+    <Value>New password is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Fields.OldPassword">
+    <Value>Mật khẩu cũ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Fields.OldPassword.Required">
+    <Value>Old password is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Success">
+    <Value>Mật khẩu đã được thay đổi</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CheckUsernameAvailability.Available">
+    <Value>Bạn có thể dùng tên đăng nhập này</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CheckUsernameAvailability.Button">
+    <Value>Kiểm tra</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CheckUsernameAvailability.CurrentUsername">
+    <Value>Current username</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CheckUsernameAvailability.EnterUsername">
+    <Value>Please enter username</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CheckUsernameAvailability.NotAvailable">
+    <Value>Tên đăng nhập đã được sử dụng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CompanyDetails">
+    <Value>Công ty</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerAddresses">
+    <Value>Địa chỉ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerAddresses.AddNew">
+    <Value>Add new address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerAddresses.Edit">
+    <Value>Edit address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerAddresses.NoAddresses">
+    <Value>No addresses</Value>
+  </LocaleResource>
+  <LocaleResource Name="account.customerinfo">
+    <Value>Thông tin</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders">
+    <Value>Đơn hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.NoOrders">
+    <Value>Chưa có đơn hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.OrderDate">
+    <Value>Ngày đặt hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.OrderDetails">
+    <Value>Chi tiết</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.OrderNumber">
+    <Value>Order Number</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.OrderStatus">
+    <Value>Order status</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.OrderTotal">
+    <Value>Order Total</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.RecurringOrders">
+    <Value>Thanh toán định kỳ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.RecurringOrders.Cancel">
+    <Value>Cancel payment</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.RecurringOrders.CycleInfo">
+    <Value>Cycle info</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.RecurringOrders.CyclesRemaining">
+    <Value>Cycles remaining</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.RecurringOrders.InitialOrder">
+    <Value>Initial order</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.RecurringOrders.NextPayment">
+    <Value>Next payment</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.RecurringOrders.StartDate">
+    <Value>Start date</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.RecurringOrders.TotalCycles">
+    <Value>Total cycles</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.RecurringOrders.ViewInitialOrder">
+    <Value>View order (ID - {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.ReturnItems">
+    <Value>Return Item(s)</Value>
+  </LocaleResource>
+  <LocaleResource Name="account.customerproductreviews">
+    <Value>Đánh giá của bạn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerProductReviews.ApprovalStatus.Approved">
+    <Value>Approved</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerProductReviews.ApprovalStatus.Pending">
+    <Value>Pending</Value>
+  </LocaleResource>
+  <LocaleResource Name="account.customerproductreviews.norecords">
+    <Value>Bạn chưa viết đánh giá nào</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerProductReviews.ProductReviewFor">
+    <Value>Product review for</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerReturnRequests">
+    <Value>Return requests</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerReturnRequests.Action">
+    <Value>Return Action: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerReturnRequests.Comments">
+    <Value>Your Comments:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerReturnRequests.Date">
+    <Value>Date Requested: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerReturnRequests.Item">
+    <Value>Returned Item:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerReturnRequests.Reason">
+    <Value>Return Reason: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerReturnRequests.Title">
+    <Value>Return #{0} - {1}</Value>
+  </LocaleResource>
+  <LocaleResource Name="account.downloadableproducts">
+    <Value>Sản phẩm tải về</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.EmailUsernameErrors.EmailAlreadyExists">
+    <Value>The e-mail address is already in use</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.EmailUsernameErrors.EmailTooLong">
+    <Value>E-mail address is too long</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.EmailUsernameErrors.NewEmailIsNotValid">
+    <Value>New email is not valid</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.EmailUsernameErrors.UsernameAlreadyExists">
+    <Value>The username is already in use</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.EmailUsernameErrors.UsernameTooLong">
+    <Value>Username is too long</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.AcceptPrivacyPolicy">
+    <Value>I accept privacy policy</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.AcceptPrivacyPolicy.Read">
+    <Value>(read)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.AcceptPrivacyPolicy.Required">
+    <Value>Please accept privacy policy</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.City">
+    <Value>Thành phố</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.City.Required">
+    <Value>City is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Company">
+    <Value>Tên công ty</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Company.Required">
+    <Value>Company name is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.ConfirmEmail">
+    <Value>Confirm email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.ConfirmEmail.Required">
+    <Value>Email is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.ConfirmPassword">
+    <Value>Xác nhận mật khẩu</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.ConfirmPassword.Required">
+    <Value>Yêu cầu nhập mật khẩu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Country">
+    <Value>Country</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Country.Required">
+    <Value>Country is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.DateOfBirth">
+    <Value>Ngày sinh</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.DateOfBirth.MinimumAge">
+    <Value>You have to be {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.DateOfBirth.Required">
+    <Value>Date of birth is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Email">
+    <Value>Email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Email.EnteredEmailsDoNotMatch">
+    <Value>The email and confirmation email do not match.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Email.Required">
+    <Value>Yêu cầu nhập email.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Fax">
+    <Value>Fax</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Fax.Required">
+    <Value>Fax is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.FirstName">
+    <Value>Tên</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.FirstName.Required">
+    <Value>Yêu cầu nhập tên.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Gender">
+    <Value>Giới tính</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Gender.Female">
+    <Value>Nữ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Gender.Male">
+    <Value>Nam</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.LastName">
+    <Value>Họ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.LastName.Required">
+    <Value>Yêu cầu nhập tên họ.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Newsletter">
+    <Value>Nhận tin mới</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Password">
+    <Value>Mật khẩu</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Password.EnteredPasswordsDoNotMatch">
+    <Value>The password and confirmation password do not match.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Password.LengthValidation">
+    <Value>The password should have at least {0} characters.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Password.Required">
+    <Value>Yêu cầu nhập mật khẩu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Phone">
+    <Value>Điện thoại</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Phone.Required">
+    <Value>Phone is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Signature">
+    <Value>Chữ ký</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.StateProvince">
+    <Value>State / province</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.StateProvince.Required">
+    <Value>State / province is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.StreetAddress">
+    <Value>Địa chỉ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.StreetAddress.Required">
+    <Value>Street address is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.StreetAddress2">
+    <Value>Street address 2</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.StreetAddress2.Required">
+    <Value>Street address 2 is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Timezone">
+    <Value>Time zone</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Username">
+    <Value>Tên đăng nhập</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.Username.Required">
+    <Value>Yêu cầu nhập tên đăng nhập.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.VatNumber">
+    <Value>VAT number</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.VatNumber.Note">
+    <Value>NOTE: Enter VAT number with country code (e.g. GB 111 111 11)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.VatNumber.Status">
+    <Value>Status</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.VatNumberStatus">
+    <Value>status: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.ZipPostalCode">
+    <Value>Zip / postal code</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.ZipPostalCode.Required">
+    <Value>Zip / postal code is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ForumSubscriptions">
+    <Value>Forum subscriptions</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ForumSubscriptions.DeleteSelected">
+    <Value>Delete Selected</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ForumSubscriptions.Description">
+    <Value>You will receive an e-mail when a new forum topic/post is created.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ForumSubscriptions.InfoColumn">
+    <Value>Forum/Topic</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ForumSubscriptions.NoSubscriptions">
+    <Value>You are not currently subscribed to any forums</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ImpersonatedAs">
+    <Value>Impersonated as {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ImpersonatedAs.Finish">
+    <Value>finish impersonated session</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ImpersonatedAs.Finish.Hint">
+    <Value>Click here to finish impersonated session</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login">
+    <Value>Đăng nhập</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.CheckoutAsGuest">
+    <Value>Tiếp tục thanh toán</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.CheckoutAsGuestOrRegister">
+    <Value>Thanh toán như Khách hoặc đăng ký</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.Fields.Email">
+    <Value>Email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.Fields.Email.Required">
+    <Value>Please enter your email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.Fields.Password">
+    <Value>Mật khẩu</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.Fields.RememberMe">
+    <Value>Duy trì đăng nhập</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.Fields.UserName">
+    <Value>Tên đăng nhập</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.ForgotPassword">
+    <Value>Quên mật khẩu?</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.LoginButton">
+    <Value>Đăng nhập</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.NewCustomer">
+    <Value>Khách hàng mới</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.NewCustomerText">
+    <Value>Bằng cách tạo một tài khoản bạn sẽ có thể mua sắm nhanh hơn, cập nhật trạng thái đơn hàng, và theo dõi các đơn đặt hàng
+      trước đó.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.ReturningCustomer">
+    <Value>Khách hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.Unsuccessful">
+    <Value>Đăng nhập thất bại. Vui lòng kiểm tra lỗi và thử lại.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.Welcome">
+    <Value>Xin chào, Hãy đăng nhập!</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.WrongCredentials">
+    <Value>Các thông tin cung cấp không đúng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.WrongCredentials.CustomerNotExist">
+    <Value>Không tìm thấy tài khoản này</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.WrongCredentials.Deleted">
+    <Value>Customer is deleted</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.WrongCredentials.NotActive">
+    <Value>Account is not active</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.WrongCredentials.NotRegistered">
+    <Value>Account is not registered</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Logout">
+    <Value>Đăng xuất</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.MyAccount">
+    <Value>Hồ sơ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Navigation">
+    <Value>Hồ sơ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Options">
+    <Value>Tùy chọn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery">
+    <Value>Password recovery</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.ChangePasswordButton">
+    <Value>Recover</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.ConfirmNewPassword">
+    <Value>Xác nhận mật khẩu</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.ConfirmNewPassword.Required">
+    <Value>Yêu cầu nhập mật khẩu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.Email">
+    <Value>Your email address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.Email.Required">
+    <Value>Enter your email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.EmailHasBeenSent">
+    <Value>Email with instructions has been sent to you.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.EmailNotFound">
+    <Value>Email not found.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.LinkExpired">
+    <Value>Your password recovery link is expired</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.NewPassword">
+    <Value>New password</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.NewPassword.EnteredPasswordsDoNotMatch">
+    <Value>The new password and confirmation password do not match.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.NewPassword.LengthValidation">
+    <Value>The password should have at least {0} characters.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.NewPassword.Required">
+    <Value>New password is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.OldPassword">
+    <Value>Mật khẩu cũ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.OldPassword.Required">
+    <Value>Old password is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.PasswordHasBeenChanged">
+    <Value>Your password has been changed</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.RecoverButton">
+    <Value>Recover</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.Tooltip">
+    <Value>Please enter your email address below. You will receive a link to reset your password.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.WrongToken">
+    <Value>Wrong password recovery token</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Preferences">
+    <Value>Preferences</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Register">
+    <Value>Đăng ký</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Register.Button">
+    <Value>Đăng ký</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Register.Errors.EmailAlreadyExists">
+    <Value>Email đã có trong hệ thống</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Register.Errors.EmailIsNotProvided">
+    <Value>Email is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Register.Errors.PasswordIsNotProvided">
+    <Value>Password is not provided</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Register.Errors.UsernameAlreadyExists">
+    <Value>The specified username already exists</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Register.Errors.UsernameIsNotProvided">
+    <Value>Username is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Register.Result.AdminApproval">
+    <Value>Your account will be activated after approving by administrator.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Register.Result.Continue">
+    <Value>Tiếp tục</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Register.Result.Disabled">
+    <Value>Registration not allowed. You can edit this in the admin area.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Register.Result.EmailValidation">
+    <Value>Your registration has been successfully completed. You have just been sent an email containing membership activation
+      instructions.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Register.Result.Standard">
+    <Value>Your registration completed</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Register.Unsuccessful">
+    <Value>Registration was not complete. Please correct the errors and try again.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.RewardPoints">
+    <Value>Điểm thưởng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ShoppingCart">
+    <Value>Giỏ hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.VendorInfo">
+    <Value>Vendor info</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.VendorInfo.Description">
+    <Value>Description</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.VendorInfo.Email">
+    <Value>Email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.VendorInfo.Email.Required">
+    <Value>Email is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.VendorInfo.Name">
+    <Value>Name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.VendorInfo.Name.Required">
+    <Value>Vendor name is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.VendorInfo.Picture">
+    <Value>Picture</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.VendorInfo.Picture.ErrorMessage">
+    <Value>You can add only picture file</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.VendorInfo.Picture.Remove">
+    <Value>Remove picture</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.YourAddress">
+    <Value>Địa chỉ của bạn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.YourContactInformation">
+    <Value>Thông tin liên hệ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.YourPassword">
+    <Value>Nhập mật khẩu</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.YourPersonalDetails">
+    <Value>Thông tin chi tiết</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewCarousel">
+    <Value>Carousel Added</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewCategory">
+    <Value>Added a new category ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewCheckoutAttribute">
+    <Value>Added a new checkout attribute ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewCustomer">
+    <Value>Added a new customer (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewCustomerRole">
+    <Value>Added a new customer role ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewDiscount">
+    <Value>Added a new discount ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewGiftCard">
+    <Value>Added a new gift card ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewManufacturer">
+    <Value>Added a new manufacturer ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewProduct">
+    <Value>Added a new product ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewProductAttribute">
+    <Value>Added a new product attribute ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewSetting">
+    <Value>Added a new setting ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewSlider">
+    <Value>Slider Added</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewSpecAttribute">
+    <Value>Added a new specification attribute ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewTopic">
+    <Value>Added a new topic ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewWidget">
+    <Value>Added a new widget (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteActivityLog">
+    <Value>Deleted activity log</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteCarousel">
+    <Value>Carousel Deleted</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteCategory">
+    <Value>Deleted a category ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteCheckoutAttribute">
+    <Value>Deleted a checkout attribute ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteCustomer">
+    <Value>Deleted a customer (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteCustomerRole">
+    <Value>Deleted a customer role ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteDiscount">
+    <Value>Deleted a discount ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteGiftCard">
+    <Value>Deleted a gift card ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteManufacturer">
+    <Value>Deleted a manufacturer ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteOrder">
+    <Value>Deleted an order (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeletePage">
+    <Value>Page Deleted</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteProduct">
+    <Value>Deleted a product ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteProductAttribute">
+    <Value>Deleted a product attribute ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteReturnRequest">
+    <Value>Deleted a return request (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteSetting">
+    <Value>Deleted a setting ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteSlider">
+    <Value>Slider Deleted</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteSpecAttribute">
+    <Value>Deleted a specification attribute ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteTopic">
+    <Value>Deleted a topic ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteWidget">
+    <Value>Deleted a widget (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditActivityLogTypes">
+    <Value>Edited activity log types</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditCarousel">
+    <Value>Edit Carousel</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditCategory">
+    <Value>Edited a category ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditCheckoutAttribute">
+    <Value>Edited a checkout attribute ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditCustomer">
+    <Value>Edited a customer (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditCustomerRole">
+    <Value>Edited a customer role ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditDiscount">
+    <Value>Edited a discount ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditGiftCard">
+    <Value>Edited a gift card ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditManufacturer">
+    <Value>Edited a manufacturer ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditOrder">
+    <Value>Edited an order (ID = {0}). See order notes for details</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditProduct">
+    <Value>Edited a product ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditProductAttribute">
+    <Value>Edited a product attribute ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditReturnRequest">
+    <Value>Edited a return request (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditSettings">
+    <Value>Edited settings</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditSlider">
+    <Value>Edit Slider</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditSpecAttribute">
+    <Value>Edited a specification attribute ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditTopic">
+    <Value>Edited a topic ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditWidget">
+    <Value>Edited a widget (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.Impersonation.Finished.Customer">
+    <Value>Impersonation by store owner was finished (Email: {0}, ID = {1})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.Impersonation.Finished.StoreOwner">
+    <Value>Finished customer impersonation (Email: {0}, ID = {1})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.Impersonation.Started.Customer">
+    <Value>Impersonated by store owner (Email: {0}, ID = {1})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.Impersonation.Started.StoreOwner">
+    <Value>Started customer impersonation (Email: {0}, ID = {1})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.PublicStore.AddBlogComment">
+    <Value>Added a blog comment</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.PublicStore.AddNewsComment">
+    <Value>Added a news comment</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.PublicStore.AddProductReview">
+    <Value>Added a product review ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.PublicStore.AddToCompareList">
+    <Value>Added a product to compare list ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.PublicStore.AddToShoppingCart">
+    <Value>Added a product to shopping cart ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.PublicStore.AddToWishlist">
+    <Value>Added a product to wishlist ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.PublicStore.ContactUs">
+    <Value>Used contact us form</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.PublicStore.Login">
+    <Value>Login</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.PublicStore.Logout">
+    <Value>Logout</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.PublicStore.PlaceOrder">
+    <Value>Placed a new order (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.PublicStore.SendPM">
+    <Value>Sent PM to customer ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.PublicStore.ViewCategory">
+    <Value>Public store. Viewed a category details page ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.PublicStore.ViewManufacturer">
+    <Value>Public store. Viewed a manufacturer details page ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.PublicStore.ViewProduct">
+    <Value>Public store. Viewed a product details page ('{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address">
+    <Value>Địa chỉ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.Address1">
+    <Value>Địa chỉ 1</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.Address1.Required">
+    <Value>Address 1 is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.Address2">
+    <Value>Địa chỉ 2</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.Address2.Required">
+    <Value>Address 2 is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.City">
+    <Value>Thành phố</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.City.Required">
+    <Value>City is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.Company">
+    <Value>Công ty</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.Company.Required">
+    <Value>Company is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.Country">
+    <Value>Country</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.Country.Required">
+    <Value>Country is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.Email">
+    <Value>Email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.Email.Required">
+    <Value>Email is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.FaxNumber">
+    <Value>Fax number</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.FaxNumber.Required">
+    <Value>Fax number is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.FirstName">
+    <Value>Tên</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.FirstName.Required">
+    <Value>First name is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.LastName">
+    <Value>Họ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.LastName.Required">
+    <Value>Last name is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.PhoneNumber">
+    <Value>Số điện thoại</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.PhoneNumber.Required">
+    <Value>Phone number is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.StateProvince">
+    <Value>State / province</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.StateProvince.Required">
+    <Value>State / province is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.ZipPostalCode">
+    <Value>Zip / postal code</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.Fields.ZipPostalCode.Required">
+    <Value>Zip / postal code is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.OtherNonUS">
+    <Value>Other (Non US)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.SelectCountry">
+    <Value>Select country</Value>
+  </LocaleResource>
+  <LocaleResource Name="Address.SelectState">
+    <Value>Select state</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin">
+    <Value>Admin</Value>
+  </LocaleResource>
+    <LocaleResource Name="BackInStockSubscriptions.AlreadySubscribed">
+    <Value>You're already subscribed for this product back in stock notification</Value>
+  </LocaleResource>
+  <LocaleResource Name="BackInStockSubscriptions.MaxSubscriptions">
+    <Value>You cannot subscribe. Maximum number of allowed subscriptions is {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="BackInStockSubscriptions.NotAllowed">
+    <Value>Subscriptions are not allowed for this product</Value>
+  </LocaleResource>
+  <LocaleResource Name="BackInStockSubscriptions.NotifyMe">
+    <Value>Notify me</Value>
+  </LocaleResource>
+  <LocaleResource Name="BackInStockSubscriptions.NotifyMeWhenAvailable">
+    <Value>Notify me when available</Value>
+  </LocaleResource>
+  <LocaleResource Name="BackInStockSubscriptions.OnlyRegistered">
+    <Value>Only registered customers can use this feature</Value>
+  </LocaleResource>
+  <LocaleResource Name="BackInStockSubscriptions.PopupTitle">
+    <Value>Receive an email when this arrives in stock</Value>
+  </LocaleResource>
+  <LocaleResource Name="BackInStockSubscriptions.Tooltip">
+    <Value>You'll receive a onetime e-mail when this product is available for ordering again. We will not send you any other e-mails
+      or add you to our newsletter; you will only be e-mailed about this product!</Value>
+  </LocaleResource>
+  <LocaleResource Name="BackInStockSubscriptions.Unsubscribe">
+    <Value>Unsubscribe</Value>
+  </LocaleResource>
+  <LocaleResource Name="Bestsellers">
+    <Value>Bán chạy nhất</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog">
+    <Value>Blog</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.Archive">
+    <Value>Nhật ký</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.Comments">
+    <Value>Comments</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.Comments.CommentText">
+    <Value>Nội dung</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.Comments.CommentText.Required">
+    <Value>Enter comment</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.Comments.CreatedOn">
+    <Value>Created on</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.Comments.LeaveYourComment">
+    <Value>Để lại bình luận</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.Comments.OnlyRegisteredUsersLeaveComments">
+    <Value>Only registered users can leave comments.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.Comments.SubmitButton">
+    <Value>Bình luận</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.Comments.SuccessfullyAdded">
+    <Value>Blog comment is successfully added.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.CommentsLink">
+    <Value>Bình luận ({0:d})</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.FilteredByMonth">
+    <Value>Blog posts of '{0}' '{1}'</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.MoreInfo">
+    <Value>Đọc thêm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.RSS">
+    <Value>RSS</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.RSS.Hint">
+    <Value>Click here to be informed automatically when we add new items to our site</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.TagCloud">
+    <Value>Chuyên mục</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.TaggedWith">
+    <Value>Các bài viết chuyên mục {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.Tags">
+    <Value>Tags</Value>
+  </LocaleResource>
+  <LocaleResource Name="Catalog.OrderBy">
+    <Value>Xếp theo</Value>
+  </LocaleResource>
+  <LocaleResource Name="Catalog.PageSize">
+    <Value>Hiển thị</Value>
+  </LocaleResource>
+  <LocaleResource Name="Catalog.PageSize.PerPage">
+    <Value>trên trang</Value>
+  </LocaleResource>
+  <LocaleResource Name="Catalog.ViewMode">
+    <Value>Xem dạng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Catalog.ViewMode.Grid">
+    <Value>Lưới</Value>
+  </LocaleResource>
+  <LocaleResource Name="Catalog.ViewMode.List">
+    <Value>Danh sách</Value>
+  </LocaleResource>
+  <LocaleResource Name="Categories">
+    <Value>Danh mục</Value>
+  </LocaleResource>
+  <LocaleResource Name="Categories.Breadcrumb.Top">
+    <Value>Trang chủ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Categories.TotalProducts">
+    <Value>({0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout">
+    <Value>Thanh toán</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.BillingAddress">
+    <Value>Địa chỉ thanh toán</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.BillToThisAddress">
+    <Value>Bill to this address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.Button">
+    <Value>Thanh toán</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.ConfirmButton">
+    <Value>Xác nhận</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.ConfirmOrder">
+    <Value>Xác nhận đơn hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.ConfirmYourOrder">
+    <Value>Xác nhận đơn hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.EnterBillingAddress">
+    <Value>Enter billing address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.EnterShippingAddress">
+    <Value>Enter shipping address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.MinOrderPlacementInterval">
+    <Value>Please wait several seconds before placing a new order (already placed another order several seconds ago).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.MinOrderSubtotalAmount">
+    <Value>Minimum order sub-total amount is {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.MinOrderTotalAmount">
+    <Value>Minimum order total amount is {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.NewAddress">
+    <Value>Địa chỉ mới</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.NextButton">
+    <Value>Tiếp tục</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.NoPaymentMethods">
+    <Value>No payment methods available</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.OrderNumber">
+    <Value>Order number</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.OrderSummary">
+    <Value>Order summary</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.OrEnterNewAddress">
+    <Value>Or enter new address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PaymentError">
+    <Value>Payment error: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PaymentInfo">
+    <Value>Thông tin thanh toán</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PaymentMethod">
+    <Value>Cách thức thanh toán</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PickUpInStore">
+    <Value>In-Store Pickup</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PickUpInStore.Description">
+    <Value>Pick up your items at the store (put your store address here)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PickUpInStore.MethodName">
+    <Value>In-Store Pickup</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PickUpInStoreAndFee">
+    <Value>In-Store Pickup ({0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PickupPoints">
+    <Value>Pickup</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PickupPoints.Description">
+    <Value>Pick up your items at the store</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PickupPoints.Name">
+    <Value>Pickup at {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PickupPoints.NotAvailable">
+    <Value>Pickup points could not be loaded</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PickupPoints.SelectPickupPoint">
+    <Value>Select pickup point</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PlacedOrderDetails">
+    <Value>Click here for order details.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.Progress.Address">
+    <Value>Địa chỉ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.Progress.Cart">
+    <Value>Giỏ hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.Progress.Complete">
+    <Value>Hoàn tất</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.Progress.Confirm">
+    <Value>Xác nhận</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.Progress.Payment">
+    <Value>Thanh toán</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.Progress.Shipping">
+    <Value>Vận chuyển</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.SelectBillingAddress">
+    <Value>Select billing address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.SelectBillingAddressOrEnterNewOne">
+    <Value>Chọn địa chỉ thanh toán từ sổ danh bạ của bạn hoặc nhập một địa chỉ mới.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.SelectPaymentMethod">
+    <Value>Select payment method</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.SelectPaymentMethod.MethodAndFee">
+    <Value>{0} ({1})</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.SelectShippingAddress">
+    <Value>Select shipping address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.SelectShippingAddressOrEnterNewOne">
+    <Value>Chọn địa chỉ giao hàng từ sổ danh bạ của bạn hoặc nhập một địa chỉ mới.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.SelectShippingMethod">
+    <Value>Select shipping method</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.SelectShippingMethod.MethodAndFee">
+    <Value>{0} ({1})</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.ShippingAddress">
+    <Value>Địa chỉ giao hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.ShippingIsNotAllowed">
+    <Value>Shipping is not allowed</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.ShippingMethod">
+    <Value>Cách thức giao hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.ShippingMethod.ShippingFromMultipleLocations">
+    <Value>Please note that your order will be shipped from multiple locations</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.ShippingOptionCouldNotBeLoaded">
+    <Value>Shipping options could not be loaded</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.ShipToSameAddress">
+    <Value>Ship to the same address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.ShipToThisAddress">
+    <Value>Ship to this address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.SubmittingOrder">
+    <Value>Submitting order information...</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.TermsOfService">
+    <Value>Terms of service</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.TermsOfService.IAccept">
+    <Value>I agree with the terms of service and I adhere to them unconditionally</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.TermsOfService.PleaseAccept">
+    <Value>Please accept the terms of service before the next step.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.TermsOfService.Read">
+    <Value>(read)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.ThankYou">
+    <Value>Thank you</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.ThankYou.Continue">
+    <Value>Tiếp tục</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.UseRewardPoints">
+    <Value>Use my reward points, {0} reward points ({1}) available</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.YourOrderHasBeenSuccessfullyProcessed">
+    <Value>Your order has been successfully processed!</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.AddNew">
+    <Value>Thêm mới</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.All">
+    <Value>Tất cả</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.AreYouSure">
+    <Value>Are you sure?</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Back">
+    <Value>Quay lại</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Cancel">
+    <Value>Hủy bỏ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Close">
+    <Value>Close</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Config">
+    <Value>Config</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Confirm">
+    <Value>Xác nhận</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Continue">
+    <Value>Tiếp tục</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Day">
+    <Value>Ngày</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Delete">
+    <Value>Xóa</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.DeleteConfirmation">
+    <Value>Bạn có chắc muốn xóa mục này?</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.DeleteConfirmationParam">
+    <Value>Bạn có chắc muốn xóa "{0}"?</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Edit">
+    <Value>Sửa</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Error">
+    <Value>Lỗi</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.FileUploader.Cancel">
+    <Value>Cancel</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.FileUploader.Delete">
+    <Value>Xóa</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.FileUploader.DownloadUploadedFile">
+    <Value>Download</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.FileUploader.DropFiles">
+    <Value>Drop files here to upload</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.FileUploader.Processing">
+    <Value>Processing dropped files...</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.FileUploader.RemoveDownload">
+    <Value>Remove</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.FileUploader.Retry">
+    <Value>Retry</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.FileUploader.Upload">
+    <Value>Upload a file</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Hide">
+    <Value>Hide</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Home">
+    <Value>Trang chủ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.LoadingNextStep">
+    <Value>Đang tới bước tiếp theo...</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.ManagePage">
+    <Value>Manage this page</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Month">
+    <Value>Tháng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.No">
+    <Value>Không</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.NoCancel">
+    <Value>Không, hủy bỏ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Notification">
+    <Value>Thông báo</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.OK">
+    <Value>OK</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Remove">
+    <Value>Xóa</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Save">
+    <Value>Lưu</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Search">
+    <Value>Tìm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Show">
+    <Value>Show</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Upload">
+    <Value>Tải lên</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.View">
+    <Value>View</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Wait...">
+    <Value>Đợi...</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Warning">
+    <Value>Warning</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.WrongCaptcha">
+    <Value>Ký tự không trùng với ảnh. Hãy thử lại.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.WrongCaptchaV2">
+    <Value>The reCAPTCHA response is invalid or malformed. Please try again.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.WrongEmail">
+    <Value>Email không đúng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Year">
+    <Value>Năm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.Yes">
+    <Value>Có</Value>
+  </LocaleResource>
+  <LocaleResource Name="conditionsofuse">
+    <Value>Điều khoản sử dụng</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs">
+    <Value>Liên hệ</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.Button">
+    <Value>Gửi</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.Email">
+    <Value>Email</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.Email.Hint">
+    <Value>Enter your email address</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.Email.Required">
+    <Value>Enter email</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.EmailSubject">
+    <Value>{0}. Contact us</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.Enquiry">
+    <Value>Nội dung</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.Enquiry.Hint">
+    <Value>Nhập nội dung bạn muốn liên hệ</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.Enquiry.Required">
+    <Value>Enter enquiry</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.FullName">
+    <Value>Tên của bạn</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.FullName.Hint">
+    <Value>Enter your name</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.FullName.Required">
+    <Value>Enter your name</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.Subject">
+    <Value>Subject</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.Subject.Hint">
+    <Value>Enter subject</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.Subject.Required">
+    <Value>Please enter subject</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactUs.YourEnquiryHasBeenSent">
+    <Value>Your enquiry has been successfully sent to the store owner.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor">
+    <Value>Contact vendor</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.Button">
+    <Value>Gửi</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.Email">
+    <Value>Your email</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.Email.Hint">
+    <Value>Enter your email address</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.Email.Required">
+    <Value>Enter email</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.EmailSubject">
+    <Value>{0}. Contact us</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.Enquiry">
+    <Value>Enquiry</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.Enquiry.Hint">
+    <Value>Enter your enquiry</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.Enquiry.Required">
+    <Value>Enter enquiry</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.FullName">
+    <Value>Your name</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.FullName.Hint">
+    <Value>Enter your name</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.FullName.Required">
+    <Value>Enter your name</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.Subject">
+    <Value>Subject</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.Subject.Hint">
+    <Value>Enter subject</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.Subject.Required">
+    <Value>Please enter subject</Value>
+  </LocaleResource>
+  <LocaleResource Name="ContactVendor.YourEnquiryHasBeenSent">
+    <Value>Your enquiry has been successfully sent to the vendor.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Content.CopyrightNotice">
+    <Value>Copyright &amp;copy; {0} {1}. All rights reserved.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Currencies">
+    <Value>Currencies</Value>
+  </LocaleResource>
+  <LocaleResource Name="Customer.Guest">
+    <Value>Guest</Value>
+  </LocaleResource>
+  <LocaleResource Name="DownloadableProducts.Fields.Date">
+    <Value>Date</Value>
+  </LocaleResource>
+  <LocaleResource Name="DownloadableProducts.Fields.Download">
+    <Value>Download</Value>
+  </LocaleResource>
+  <LocaleResource Name="DownloadableProducts.Fields.Download.NA">
+    <Value>n/a</Value>
+  </LocaleResource>
+  <LocaleResource Name="DownloadableProducts.Fields.DownloadLicense">
+    <Value>Download license</Value>
+  </LocaleResource>
+  <LocaleResource Name="DownloadableProducts.Fields.Order">
+    <Value>Order #</Value>
+  </LocaleResource>
+  <LocaleResource Name="DownloadableProducts.Fields.Product">
+    <Value>Product</Value>
+  </LocaleResource>
+  <LocaleResource Name="DownloadableProducts.IAgree">
+    <Value>I agree</Value>
+  </LocaleResource>
+  <LocaleResource Name="downloadableproducts.noitems">
+    <Value>Không có sản phẩm tải về</Value>
+  </LocaleResource>
+  <LocaleResource Name="DownloadableProducts.ReachedMaximumNumber">
+    <Value>You have reached maximum number of downloads {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="DownloadableProducts.UserAgreement">
+    <Value>User agreement</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.Checkboxes">
+    <Value>Checkboxes</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.ColorSquares">
+    <Value>Color squares</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.Datepicker">
+    <Value>Date picker</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.DropdownList">
+    <Value>Drop-down list</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.FileUpload">
+    <Value>File upload</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.MultilineTextbox">
+    <Value>Multiline textbox</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.RadioList">
+    <Value>Radio button list</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.ReadonlyCheckboxes">
+    <Value>Read-only checkboxes</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.TextBox">
+    <Value>Textbox</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeValueType.AssociatedToProduct">
+    <Value>Associated to product</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeValueType.Simple">
+    <Value>Simple</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.BackorderMode.AllowQtyBelow0">
+    <Value>Allow qty below 0</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.BackorderMode.AllowQtyBelow0AndNotifyCustomer">
+    <Value>Allow qty below 0 and notify customer</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.BackorderMode.NoBackorders">
+    <Value>No backorders</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.DownloadActivationType.Manually">
+    <Value>Manually</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.DownloadActivationType.WhenOrderIsPaid">
+    <Value>When order is paid</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.GiftCardType.Physical">
+    <Value>Physical</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.GiftCardType.Virtual">
+    <Value>Virtual</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.LowStockActivity.DisableBuyButton">
+    <Value>Disable buy button</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.LowStockActivity.Nothing">
+    <Value>Nothing</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.LowStockActivity.Unpublish">
+    <Value>Unpublish</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ManageInventoryMethod.DontManageStock">
+    <Value>Don't track inventory</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ManageInventoryMethod.ManageStock">
+    <Value>Track inventory</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ManageInventoryMethod.ManageStockByAttributes">
+    <Value>Track inventory by product attributes</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.CreatedOn">
+    <Value>Ngày tạo</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.NameAsc">
+    <Value>Tên: A tới Z</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.NameDesc">
+    <Value>Tên: Z tới A</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.Position">
+    <Value>Vị trí</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.PriceAsc">
+    <Value>Giá: thấp tới cao</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.PriceDesc">
+    <Value>Giá: cao tới thấp</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductType.GroupedProduct">
+    <Value>Grouped product</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductType.SimpleProduct">
+    <Value>Simple product</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RecurringProductCyclePeriod.Days">
+    <Value>Days</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RecurringProductCyclePeriod.Months">
+    <Value>Months</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RecurringProductCyclePeriod.Weeks">
+    <Value>Weeks</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RecurringProductCyclePeriod.Years">
+    <Value>Years</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RentalPricePeriod.Days">
+    <Value>Days</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RentalPricePeriod.Months">
+    <Value>Months</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RentalPricePeriod.Weeks">
+    <Value>Weeks</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.RentalPricePeriod.Years">
+    <Value>Years</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.SpecificationAttributeType.CustomHtmlText">
+    <Value>Custom HTML text</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.SpecificationAttributeType.CustomText">
+    <Value>Custom text</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.SpecificationAttributeType.Hyperlink">
+    <Value>Hyperlink</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.SpecificationAttributeType.Option">
+    <Value>Option</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Common.FulltextSearchMode.And">
+    <Value>Using CONTAINS and AND with prefix_term</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Common.FulltextSearchMode.ExactMatch">
+    <Value>Exact match (using CONTAINS with prefix_term)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Common.FulltextSearchMode.Or">
+    <Value>Using CONTAINS and OR with prefix_term</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Customers.CustomerNameFormat.ShowEmails">
+    <Value>Show emails</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Customers.CustomerNameFormat.ShowFirstName">
+    <Value>Show first name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Customers.CustomerNameFormat.ShowFullNames">
+    <Value>Show full names</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Customers.CustomerNameFormat.ShowUsernames">
+    <Value>Show usernames</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Customers.PasswordFormat.Clear">
+    <Value>Clear</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Customers.PasswordFormat.Encrypted">
+    <Value>Encrypted</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Customers.PasswordFormat.Hashed">
+    <Value>Hashed</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Discounts.DiscountLimitationType.NTimesOnly">
+    <Value>N times only</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Discounts.DiscountLimitationType.NTimesPerCustomer">
+    <Value>N times per customer</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Discounts.DiscountLimitationType.Unlimited">
+    <Value>Unlimited</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Discounts.DiscountType.AssignedToCategories">
+    <Value>Assigned to categories</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Discounts.DiscountType.AssignedToManufacturers">
+    <Value>Assigned to manufacturers</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Discounts.DiscountType.AssignedToOrderSubTotal">
+    <Value>Assigned to order subtotal</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Discounts.DiscountType.AssignedToOrderTotal">
+    <Value>Assigned to order total</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Discounts.DiscountType.AssignedToShipping">
+    <Value>Assigned to shipping</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Discounts.DiscountType.AssignedToSkus">
+    <Value>Assigned to products</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Forums.EditorType.BBCodeEditor">
+    <Value>BBCode editor</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Forums.EditorType.HtmlEditor">
+    <Value>Html editor</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Forums.EditorType.SimpleTextBox">
+    <Value>Simple textbox</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Forums.ForumSearchType.All">
+    <Value>Tiêu đề và bài viết</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Forums.ForumSearchType.PostTextOnly">
+    <Value>Chỉ bài viết</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Forums.ForumSearchType.TopicTitlesOnly">
+    <Value>Chỉ tiêu đề</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Forums.ForumTopicType.Announcement">
+    <Value>Announcement</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Forums.ForumTopicType.Normal">
+    <Value>Normal</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Forums.ForumTopicType.Sticky">
+    <Value>Sticky</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Logging.LogLevel.Debug">
+    <Value>Debug</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Logging.LogLevel.Error">
+    <Value>Error</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Logging.LogLevel.Fatal">
+    <Value>Fatal</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Logging.LogLevel.Information">
+    <Value>Information</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Logging.LogLevel.Warning">
+    <Value>Warning</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Messages.MessageDelayPeriod.Days">
+    <Value>Days</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Messages.MessageDelayPeriod.Hours">
+    <Value>Hours</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Messages.QueuedEmailPriority.High">
+    <Value>High</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Messages.QueuedEmailPriority.Low">
+    <Value>Low</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Orders.OrderStatus.Cancelled">
+    <Value>Đã hủy</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Orders.OrderStatus.Complete">
+    <Value>Hoàn tất</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Orders.OrderStatus.Pending">
+    <Value>Chưa giải quyết</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Orders.OrderStatus.Processing">
+    <Value>Đang xử lý</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.Cancelled">
+    <Value>Cancelled</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.ItemsRefunded">
+    <Value>Item(s) refunded</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.ItemsRepaired">
+    <Value>Item(s) repaired</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.Pending">
+    <Value>Đang chờ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.Received">
+    <Value>Received</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.RequestRejected">
+    <Value>Request rejected</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.ReturnAuthorized">
+    <Value>Return authorized</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.Authorized">
+    <Value>Authorized</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.Paid">
+    <Value>Paid</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.PartiallyRefunded">
+    <Value>Partially refunded</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.Pending">
+    <Value>Đang chờ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.Refunded">
+    <Value>Refunded</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.Voided">
+    <Value>Voided</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Security.PasswordFormat.Clear">
+    <Value>Clear</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Security.PasswordFormat.Encrypted">
+    <Value>Encrypted</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Security.PasswordFormat.Hashed">
+    <Value>Hashed</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Security.UserRegistrationType.AdminApproval">
+    <Value>A customer should be approved by administrator</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Security.UserRegistrationType.Disabled">
+    <Value>Registration is disabled</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Security.UserRegistrationType.EmailValidation">
+    <Value>Email validation is required after registration</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Security.UserRegistrationType.Standard">
+    <Value>Standard account creation</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Seo.PageTitleSeoAdjustment.PagenameAfterStorename">
+    <Value>Page name comes after store name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Seo.PageTitleSeoAdjustment.StorenameAfterPagename">
+    <Value>Store name comes after page name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Seo.WwwRequirement.NoMatter">
+    <Value>Doesn't matter</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Seo.WwwRequirement.WithoutWww">
+    <Value>Pages should not have WWW prefix</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Seo.WwwRequirement.WithWww">
+    <Value>Pages should have WWW prefix</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Shipping.ShippingStatus.Delivered">
+    <Value>Delivered</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Shipping.ShippingStatus.NotYetShipped">
+    <Value>Chưa vận chuyển</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Shipping.ShippingStatus.PartiallyShipped">
+    <Value>Partially shipped</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Shipping.ShippingStatus.Shipped">
+    <Value>Shipped</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Shipping.ShippingStatus.ShippingNotRequired">
+    <Value>Shipping not required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Tax.TaxBasedOn.BillingAddress">
+    <Value>Billing address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Tax.TaxBasedOn.DefaultAddress">
+    <Value>Default address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Tax.TaxBasedOn.ShippingAddress">
+    <Value>Shipping address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Tax.TaxDisplayType.ExcludingTax">
+    <Value>Excluding tax</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Tax.TaxDisplayType.IncludingTax">
+    <Value>Including tax</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Tax.VatNumberStatus.Empty">
+    <Value>Empty</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Tax.VatNumberStatus.Invalid">
+    <Value>Invalid</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Tax.VatNumberStatus.Unknown">
+    <Value>Unknown</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Tax.VatNumberStatus.Valid">
+    <Value>Valid</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Plugins.LoadPluginsMode.All">
+    <Value>All</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Plugins.LoadPluginsMode.InstalledOnly">
+    <Value>Installed</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Plugins.LoadPluginsMode.NotInstalledOnly">
+    <Value>Not installed</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Plugin.Shipping.Fedex.DropoffType.BusinessServiceCenter">
+    <Value>Business service center</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Plugin.Shipping.Fedex.DropoffType.DropBox">
+    <Value>Drop box</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Plugin.Shipping.Fedex.DropoffType.RegularPickup">
+    <Value>Regular pickup</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Plugin.Shipping.Fedex.DropoffType.RequestCourier">
+    <Value>Request courier</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Plugin.Shipping.Fedex.DropoffType.Station">
+    <Value>Station</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Plugin.Shipping.Fedex.PackingType.PackByDimensions">
+    <Value>Pack by dimensions</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Plugin.Shipping.Fedex.PackingType.PackByOneItemPerPackage">
+    <Value>Pack by one item per package</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Plugin.Shipping.Fedex.PackingType.PackByVolume">
+    <Value>Pack by volume</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Plugin.Shipping.UPS.PackingType.PackByDimensions">
+    <Value>Pack by dimensions</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Plugin.Shipping.UPS.PackingType.PackByOneItemPerPackage">
+    <Value>Pack by one item per package</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Plugin.Shipping.UPS.PackingType.PackByVolume">
+    <Value>Pack by volume</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Services.Payments.RecurringPaymentType.Automatic">
+    <Value>Automatic</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Services.Payments.RecurringPaymentType.Manual">
+    <Value>Manual</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Services.Payments.RecurringPaymentType.NotSupported">
+    <Value>Not supported</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Web.Framework.Security.Captcha.ReCaptchaVersion.Version1">
+    <Value>Version 1.0</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Web.Framework.Security.Captcha.ReCaptchaVersion.Version2">
+    <Value>Version 2.0</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ConditionType">
+    <Value />
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ConditionType.Category">
+    <Value>Category</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ConditionType.Customer">
+    <Value>Customer</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ConditionType.Manufacturer">
+    <Value>Manufacturer</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ConditionType.Product">
+    <Value>Product</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ConditionType.ProductSpecification">
+    <Value>Product Specification</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.CustomerConditionProperty">
+    <Value />
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.CustomerConditionProperty.Default">
+    <Value>Default</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.CustomerConditionProperty.Email">
+    <Value>Email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.CustomerConditionProperty.IsInRole">
+    <Value>Is In Role</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.CustomerConditionProperty.IsLoggedIn">
+    <Value>Is Logged In</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.CustomerConditionProperty.IsNotInRole">
+    <Value>Is Not In Role</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.CustomerConditionProperty.UserName">
+    <Value>User Name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.OperatorType">
+    <Value />
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.OperatorType.Contains">
+    <Value>Contains</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.OperatorType.DoesNotContain">
+    <Value>Does Not Contain</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.OperatorType.EqualTo">
+    <Value>Equal To</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.OperatorType.GreaterThan">
+    <Value>Greater Than</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.OperatorType.GreaterThanOrEqualTo">
+    <Value>Greater Than Or Equal To</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.OperatorType.LessThan">
+    <Value>Less Than</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.OperatorType.LessThanOrEqualTo">
+    <Value>Less Than Or Equal To</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.OperatorType.NotEqualTo">
+    <Value>Not Equal To</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty">
+    <Value />
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty.Category">
+    <Value>Category</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty.Default">
+    <Value>Default</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty.DiscountAmmount">
+    <Value>Discount Ammount</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty.DiscountPercentage">
+    <Value>Discount Percentage</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty.Manufacturer">
+    <Value>Manufacturer</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty.MinPrice">
+    <Value>Min Price</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty.PreOrder">
+    <Value>Pre Order</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty.PriceDifferenceAmmount">
+    <Value>Price Difference Ammount</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty.PriceDifferencePercentage">
+    <Value>Price Difference Percentage</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty.ProductAgeHours">
+    <Value>Product Age Hours</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty.Quantity">
+    <Value>Quantity</Value>
+  </LocaleResource>
+  <LocaleResource Name="EUCookieLaw.CannotBrowse">
+    <Value>You cannot browse this site until you accept cookies</Value>
+  </LocaleResource>
+  <LocaleResource Name="EUCookieLaw.Description">
+    <Value>On 26 May 2011, the rules about cookies on websites changed. This site uses cookies. One or more of the cookies we use
+      is essential for parts of this website to operate and has already been set. You may delete and block all cookies from
+      this site, but parts of the site will not work. To find out more about cookies used on this website and how to delete
+      cookies, see our privacy policy</Value>
+  </LocaleResource>
+  <LocaleResource Name="EUCookieLaw.Description2">
+    <Value>Cookies help us deliver our services. By using our services, you agree to our use of cookies.</Value>
+  </LocaleResource>
+  <LocaleResource Name="EUCookieLaw.LearnMore">
+    <Value>Learn more</Value>
+  </LocaleResource>
+  <LocaleResource Name="EUCookieLaw.Title">
+    <Value>Your cookie settings</Value>
+  </LocaleResource>
+  <LocaleResource Name="Filtering.FilterResults">
+    <Value>Filter your results</Value>
+  </LocaleResource>
+  <LocaleResource Name="Filtering.PriceRangeFilter">
+    <Value>Lọc theo giá</Value>
+  </LocaleResource>
+  <LocaleResource Name="Filtering.PriceRangeFilter.Over">
+    <Value>Trên {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Filtering.PriceRangeFilter.Remove">
+    <Value>Xóa bộ lọc</Value>
+  </LocaleResource>
+  <LocaleResource Name="Filtering.PriceRangeFilter.Under">
+    <Value>Dưới {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Filtering.SpecificationFilter">
+    <Value>Lọc theo thuộc tính</Value>
+  </LocaleResource>
+  <LocaleResource Name="Filtering.SpecificationFilter.CurrentlyFilteredBy">
+    <Value>Đang lọc sản phẩm theo:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Filtering.SpecificationFilter.Remove">
+    <Value>Xóa bộ lọc</Value>
+  </LocaleResource>
+  <LocaleResource Name="Filtering.SpecificationFilter.Separator">
+    <Value>or </Value>
+  </LocaleResource>
+  <LocaleResource Name="Footer.CustomerService">
+    <Value>Dịch vụ khách hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Footer.FollowUs">
+    <Value>Theo dõi</Value>
+  </LocaleResource>
+  <LocaleResource Name="Footer.FollowUs.Facebook">
+    <Value>Facebook</Value>
+  </LocaleResource>
+  <LocaleResource Name="Footer.FollowUs.GooglePlus">
+    <Value>Google+</Value>
+  </LocaleResource>
+  <LocaleResource Name="Footer.FollowUs.RSS">
+    <Value>RSS</Value>
+  </LocaleResource>
+  <LocaleResource Name="Footer.FollowUs.Twitter">
+    <Value>Twitter</Value>
+  </LocaleResource>
+  <LocaleResource Name="Footer.FollowUs.Youtube">
+    <Value>YouTube</Value>
+  </LocaleResource>
+  <LocaleResource Name="Footer.Information">
+    <Value>Thông tin</Value>
+  </LocaleResource>
+  <LocaleResource Name="Footer.MyAccount">
+    <Value>Tài khoản</Value>
+  </LocaleResource>
+  <LocaleResource Name="Footer.TaxShipping.ExclTax">
+    <Value>Tất cả giá trên chưa bao gồm thuế GTGT. Được &lt;a href="{0}"&gt;vận chuyển miễn phí&lt;/a&gt; trong nội thành TP.HCM
+      và Hà Nội</Value>
+  </LocaleResource>
+  <LocaleResource Name="Footer.TaxShipping.InclTax">
+    <Value>All prices are entered including tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.ActiveDiscussions">
+    <Value>Thảo luận tích cực</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.ActiveDiscussions.ViewAll">
+    <Value>Xem tất cả</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.ActiveDiscussionsFeedDescription">
+    <Value>Topics with active discussions.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.ActiveDiscussionsFeedTitle">
+    <Value>{0} - Active Discussions</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.ActiveDiscussionsRSSLinkTitle">
+    <Value>Click here to be informed automatically of active discussion topics</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.AdvancedSearch">
+    <Value>Tùy chọn tìm kiếm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Announcement">
+    <Value>Thông báo</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Author">
+    <Value>Tác giả</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.BreadCrumb.ForumGroupTitle">
+    <Value>Forum Group</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.BreadCrumb.ForumHomeTitle">
+    <Value>Forum Home Page</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.BreadCrumb.ForumTitle">
+    <Value>Diễn đàn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.BreadCrumb.HomeTitle">
+    <Value>Trang chủ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.BreadCrumb.TopicTitle">
+    <Value>Topic</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.By">
+    <Value>Bởi</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Cancel">
+    <Value>Hủy bỏ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.DeletePost">
+    <Value>Xóa bài viết</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.DeleteTopic">
+    <Value>Xóa chủ đề</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.EditPost">
+    <Value>Sửa bài viết</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.EditTopic">
+    <Value>Sửa chủ đề</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Forum">
+    <Value>Diễn đàn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.ForumFeedDescription">
+    <Value>Forum's topics with newest posts.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.ForumFeedTitle">
+    <Value>{0} - Forum: {1}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.ForumName">
+    <Value>Tên diễn đàn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.ForumRSSLinkTitle">
+    <Value>Click here to be informed automatically of new posts and topics in the forum</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Forums">
+    <Value>Diễn đàn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Home">
+    <Value>Home</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.In">
+    <Value>Trong</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Joined">
+    <Value>Joined</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.LatestPost">
+    <Value>Bài viết cuối</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Location">
+    <Value>Vị trí</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Moderator">
+    <Value>Moderator</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.MoveTopic">
+    <Value>Di chuyển</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.NewPost">
+    <Value>Bài viết mới</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.NewTopic">
+    <Value>Chủ đề mới</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.NoPosts">
+    <Value>Chưa có bài</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Normal">
+    <Value>Bình thường</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.NotifyWhenSomeonePostsInThisTopic">
+    <Value>Thông báo qua email cho tôi khi có người đăng bài trong chủ đề này</Value>
+  </LocaleResource>
+  <LocaleResource Name="forum.options">
+    <Value>Tùy chọn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.PageTitle.ActiveDiscussions">
+    <Value>Thảo luận tích cực</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.PageTitle.Default">
+    <Value>Diễn đàn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.PageTitle.MoveTopic">
+    <Value>Di chuyển chủ đề</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.PageTitle.PostEdit">
+    <Value>Sửa bài viết</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.PageTitle.PostNew">
+    <Value>Bài viết mới</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.PageTitle.Search">
+    <Value>Tìm diễn đàn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.PageTitle.TopicEdit">
+    <Value>Edit Topic</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.PageTitle.TopicNew">
+    <Value>Chủ đề mới</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Posted">
+    <Value>Được đăng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.PostLinkTitle">
+    <Value>Link to this post</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Posts">
+    <Value>Bài viết</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Priority">
+    <Value>Ưu tiên</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.PrivateMessages.PM">
+    <Value>PM</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.QuotePost">
+    <Value>Trích dẫn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Replies">
+    <Value>Trả lời</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Replies.Count">
+    <Value>{0} trả lời</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Reply">
+    <Value>Trả lời</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.RSS">
+    <Value>RSS</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search">
+    <Value>Search Forums</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.AdvancedSearch">
+    <Value>Tùy chọn tìm kiếm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.LimitResultsToPrevious">
+    <Value>Giới hạn tìm kiếm trở về trước:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.LimitResultsToPrevious.1day">
+    <Value>1 ngày</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.LimitResultsToPrevious.1month">
+    <Value>1 tháng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.LimitResultsToPrevious.1year">
+    <Value>1 năm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.LimitResultsToPrevious.2weeks">
+    <Value>2 tuần</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.LimitResultsToPrevious.3months">
+    <Value>3 tháng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.LimitResultsToPrevious.6months">
+    <Value>6 tháng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.LimitResultsToPrevious.7days">
+    <Value>7 ngày</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.LimitResultsToPrevious.AllResults">
+    <Value>Mọi kết quả</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.SearchInForum">
+    <Value>Tìm trong diễn đàn:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.SearchInForum.All">
+    <Value>Tất cả diễn đàn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.SearchKeyword">
+    <Value>Tìm kiếm từ khóa:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.SearchWithin">
+    <Value>Tìm kiếm với:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.SearchWithin.All">
+    <Value>Tiêu đề và bài viết</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.SearchWithin.PostTextOnly">
+    <Value>Chỉ bài viết</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Search.SearchWithin.TopicTitlesOnly">
+    <Value>Chỉ tiêu đề</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.SearchButton">
+    <Value>Tìm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.SearchForumsTooltip">
+    <Value>Tìm diễn đàn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.SearchNoResultsText">
+    <Value>No posts were found that matched your criteria.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.SearchTermMinimumLengthIsNCharacters">
+    <Value>Search term minimum length is {0} characters</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.SelectTheForumToMoveTopic">
+    <Value>Select the forum you want to move the post to</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Status">
+    <Value>Status</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Sticky">
+    <Value>Sticky</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Submit">
+    <Value>Đăng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.TextCannotBeEmpty">
+    <Value>Text cannot be empty</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Topics">
+    <Value>Chủ đề</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Topics.Count">
+    <Value>{0} Chủ đề</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Topics.GotoPostPager">
+    <Value>[Đi tới trang: {0}]</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.TopicSubjectCannotBeEmpty">
+    <Value>Topic subject cannot be empty</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.TopicTitle">
+    <Value>Tên tiêu đề</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.TotalPosts">
+    <Value>Tổng bài viết</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.UnwatchForum">
+    <Value>Bỏ theo dõi diễn đàn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.UnwatchTopic">
+    <Value>Bỏ theo dõi chủ đề</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Views">
+    <Value>Đã xem</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Votes">
+    <Value>Votes</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Votes.AlreadyVoted">
+    <Value>You already voted for this post</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Votes.Login">
+    <Value>You need to log in to vote for post</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Votes.MaxVotesReached">
+    <Value>A maximum of {0} votes can be cast per user per day</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.Votes.OwnPost">
+    <Value>You cannot vote for your own post</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.WatchForum">
+    <Value>Theo dõi diễn đàn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Forum.WatchTopic">
+    <Value>Theo dõi chủ đề</Value>
+  </LocaleResource>
+  <LocaleResource Name="GiftCardAttribute.For.Physical">
+    <Value>For: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="GiftCardAttribute.For.Virtual">
+    <Value>For: {0} &lt;{1}&gt;</Value>
+  </LocaleResource>
+  <LocaleResource Name="GiftCardAttribute.From.Physical">
+    <Value>From: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="GiftCardAttribute.From.Virtual">
+    <Value>From: {0} &lt;{1}&gt;</Value>
+  </LocaleResource>
+  <LocaleResource Name="HomePage">
+    <Value>Trang chủ</Value>
+  </LocaleResource>
+  <LocaleResource Name="HomePage.Products">
+    <Value>Sản phẩm nổi bật</Value>
+  </LocaleResource>
+  <LocaleResource Name="ima9ines.nop.newproducts.heading">
+    <Value>Sản phẩm mới</Value>
+  </LocaleResource>
+  <LocaleResource Name="job">
+    <Value>Việc làm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Languages">
+    <Value>Languages</Value>
+  </LocaleResource>
+  <LocaleResource Name="Manufacturers">
+    <Value>Hãng sản xuất</Value>
+  </LocaleResource>
+  <LocaleResource Name="Manufacturers.List">
+    <Value>Manufacturer List</Value>
+  </LocaleResource>
+  <LocaleResource Name="Manufacturers.ViewAll">
+    <Value>Tất cả</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.Category.ImageAlternateTextFormat">
+    <Value>Picture for category {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.Category.ImageLinkTitleFormat">
+    <Value>Show products in category {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.MagnificPopup.Close">
+    <Value>Close (Esc)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.MagnificPopup.Counter">
+    <Value>%curr% of %total%</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.MagnificPopup.Loading">
+    <Value>Loading...</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.MagnificPopup.Next">
+    <Value>Next (Right arrow key)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.MagnificPopup.Previous">
+    <Value>Previous (Left arrow key)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.Manufacturer.ImageAlternateTextFormat">
+    <Value>Picture for manufacturer {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.Manufacturer.ImageLinkTitleFormat">
+    <Value>Show products manufactured by {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.Product.ImageAlternateTextFormat">
+    <Value>Hình ảnh {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.Product.ImageAlternateTextFormat.Details">
+    <Value>Hình ảnh {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.Product.ImageLinkTitleFormat">
+    <Value>Chi tiết về {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.Product.ImageLinkTitleFormat.Details">
+    <Value>Hình ảnh {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.Vendor.ImageAlternateTextFormat">
+    <Value>Picture for vendor {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Media.Vendor.ImageLinkTitleFormat">
+    <Value>Show products of vendor {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Menu">
+    <Value>Menu</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.GiftCardInfo">
+    <Value>Gift card ({0}):</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.OrderTotal">
+    <Value>Order Total:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.PaymentMethodAdditionalFee">
+    <Value>Payment method additional fee:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.Product(s)">
+    <Value>Product(s)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.Product(s).Download">
+    <Value>Download</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.Product(s).License">
+    <Value>Download license</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.Product(s).Name">
+    <Value>Name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.Product(s).Price">
+    <Value>Giá</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.Product(s).Quantity">
+    <Value>Số lượng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.Product(s).SKU">
+    <Value>SKU: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.Product(s).Total">
+    <Value>Total</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.RewardPoints">
+    <Value>{0} reward points:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.Shipping">
+    <Value>Shipping:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.SubTotal">
+    <Value>Sub-Total:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.SubTotalDiscount">
+    <Value>Discount:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.Tax">
+    <Value>Tax:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.TaxRateLine">
+    <Value>Tax {0}%:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Messages.Order.TotalDiscount">
+    <Value>Discount:</Value>
+  </LocaleResource>
+  <LocaleResource Name="News">
+    <Value>Tin tức</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.Archive">
+    <Value>News archive</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.Comments">
+    <Value>Comments</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.Comments.CommentText">
+    <Value>Nội dung</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.Comments.CommentText.Required">
+    <Value>Enter comment text</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.Comments.CommentTitle">
+    <Value>Tiêu đề</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.Comments.CommentTitle.MaxLengthValidation">
+    <Value>Max length of comment title is {0} chars</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.Comments.CommentTitle.Required">
+    <Value>Enter comment title</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.Comments.CreatedOn">
+    <Value>Created on</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.Comments.LeaveYourComment">
+    <Value>Để lại bình luận</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.Comments.OnlyRegisteredUsersLeaveComments">
+    <Value>Only registered users can leave comments.</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.Comments.SubmitButton">
+    <Value>Bình luận</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.Comments.SuccessfullyAdded">
+    <Value>News comment is successfully added.</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.MoreInfo">
+    <Value>chi tiết</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.RSS">
+    <Value>RSS</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.RSS.Hint">
+    <Value>Click here to be informed automatically when we add new items to our site</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.ViewAll">
+    <Value>[Xem thêm các tin khác]</Value>
+  </LocaleResource>
+  <LocaleResource Name="newsletter.button">
+    <Value>Đăng ký</Value>
+  </LocaleResource>
+  <LocaleResource Name="Newsletter.Email.Placeholder">
+    <Value>Nhập địa chỉ email của bạn...</Value>
+  </LocaleResource>
+  <LocaleResource Name="Newsletter.Email.Wrong">
+    <Value>Enter valid email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Newsletter.Options.Send">
+    <Value>Send</Value>
+  </LocaleResource>
+  <LocaleResource Name="Newsletter.Options.Subscribe">
+    <Value>Theo dõi</Value>
+  </LocaleResource>
+  <LocaleResource Name="Newsletter.Options.Unsubscribe">
+    <Value>Bỏ theo dõi</Value>
+  </LocaleResource>
+  <LocaleResource Name="Newsletter.ResultActivated">
+    <Value>Your subscription has been activated.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Newsletter.ResultDeactivated">
+    <Value>Your subscription has been deactivated.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Newsletter.Subscribe">
+    <Value>Đăng ký nhận bản tin</Value>
+  </LocaleResource>
+  <LocaleResource Name="Newsletter.SubscribeEmailSent">
+    <Value>Thank you for signing up! A verification email has been sent. We appreciate your interest.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Newsletter.Title">
+    <Value>Bản tin</Value>
+  </LocaleResource>
+  <LocaleResource Name="Newsletter.UnsubscribeEmailSent">
+    <Value>A verification email has been sent. Thank you!</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.BillingAddress">
+    <Value>Địa chỉ thanh toán</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Email">
+    <Value>Email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Fax">
+    <Value>Fax</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.GetPDFInvoice">
+    <Value>Hóa đơn PDF</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.GiftCardInfo">
+    <Value>Gift card ({0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Notes">
+    <Value>Note(s)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Notes.CreatedOn">
+    <Value>Ngày tạo</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Notes.Download">
+    <Value>Download attached file</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Notes.Note">
+    <Value>Note</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Order#">
+    <Value>Order #</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.OrderDate">
+    <Value>Ngày đặt hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.OrderInformation">
+    <Value>Thông tin đơn hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.OrderStatus">
+    <Value>Tình trạng đơn hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.OrderTotal">
+    <Value>Tổng tiền đơn hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Payment">
+    <Value>Thanh toán</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Payment.Method">
+    <Value>Hình thức thanh toán</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Payment.Status">
+    <Value>Trạng thái</Value>
+  </LocaleResource>
+  <LocaleResource Name="order.paymentmethod">
+    <Value>Cách thức thanh toán</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.PaymentMethodAdditionalFee">
+    <Value>Payment method additional fee</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Phone">
+    <Value>Điện thoại</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.PickupAddress">
+    <Value>Pickup point address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Print">
+    <Value>In</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Product(s)">
+    <Value>Sản phẩm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Product(s).Name">
+    <Value>Tên</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Product(s).Price">
+    <Value>Giá</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Product(s).Quantity">
+    <Value>Số lượng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Product(s).SKU">
+    <Value>SKU</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Product(s).Total">
+    <Value>Tổng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.PurchaseOrderNumber">
+    <Value>Purchase Order Number</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Rental.FormattedDate">
+    <Value>Start date: {0}. End date: {1}.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Reorder">
+    <Value>Đặt hàng lại</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.RetryPayment">
+    <Value>Retry payment</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.RetryPayment.Hint">
+    <Value>This order is not yet paid for. To pay now, click the "Retry payment" button.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.ReturnItems">
+    <Value>Return Item(s)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.RewardPoints">
+    <Value>{0} reward points</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments">
+    <Value>Vận chuyển</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.DeliveryDate">
+    <Value>Date delivered</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.DeliveryDate.NotYet">
+    <Value>Not yet</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.Email">
+    <Value>Email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.Fax">
+    <Value>Fax</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.ID">
+    <Value>Shipment #</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.Information">
+    <Value>Shipment #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.Order#">
+    <Value>Order #</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.Phone">
+    <Value>Điện thoại</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.PickupAddress">
+    <Value>Pickup point address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.Product(s)">
+    <Value>Shipped product(s)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.Product(s).Name">
+    <Value>Tên</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.Product(s).Quantity">
+    <Value>Qty shipped</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.Product(s).SKU">
+    <Value>SKU</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.ShippedDate">
+    <Value>Date shipped</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.ShippedDate.NotYet">
+    <Value>Not yet</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.ShippingAddress">
+    <Value>Địa chỉ giao hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.ShippingMethod">
+    <Value>Cách thức giao hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.TrackingNumber">
+    <Value>Tracking number</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.ViewDetails">
+    <Value>View details</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.ShipmentStatusEvents">
+    <Value>Shipment status events</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.ShipmentStatusEvents.Country">
+    <Value>Country</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.ShipmentStatusEvents.Date">
+    <Value>Date</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.ShipmentStatusEvents.Event">
+    <Value>Event</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.ShipmentStatusEvents.Location">
+    <Value>Location</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipping">
+    <Value>Vận chuyển</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipping.Name">
+    <Value>Phương pháp vận chuyển</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipping.Status">
+    <Value>Tình trạng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.ShippingAddress">
+    <Value>Địa chỉ giao hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="order.shippingmethod">
+    <Value>Cách thức giao hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.SubTotal">
+    <Value>Tổng tiền</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.SubTotalDiscount">
+    <Value>Discount</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Tax">
+    <Value>VAT</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.TaxRateLine">
+    <Value>Tax {0}%</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.TaxShipping.ExclTax">
+    <Value>Tất cả giá trên chưa bao gồm thuế GTGT. Được &lt;a href="{0}"&gt;vận chuyển miễn phí&lt;/a&gt; trong nội thành TP.HCM
+      và Hà Nội</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.TaxShipping.InclTax">
+    <Value>All prices are entered including tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.TotalDiscount">
+    <Value>Discount</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.VATNumber">
+    <Value>VAT number</Value>
+  </LocaleResource>
+  <LocaleResource Name="Pager.CurrentPage">
+    <Value>Page {0} of {1} ({2} total)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Pager.First">
+    <Value>First</Value>
+  </LocaleResource>
+  <LocaleResource Name="Pager.FirstPageTitle">
+    <Value>First Page</Value>
+  </LocaleResource>
+  <LocaleResource Name="Pager.Last">
+    <Value>Last</Value>
+  </LocaleResource>
+  <LocaleResource Name="Pager.LastPageTitle">
+    <Value>Last Page</Value>
+  </LocaleResource>
+  <LocaleResource Name="Pager.Next">
+    <Value>Trang sau</Value>
+  </LocaleResource>
+  <LocaleResource Name="Pager.NextPageTitle">
+    <Value>Next Page</Value>
+  </LocaleResource>
+  <LocaleResource Name="Pager.PageLinkTitle">
+    <Value>Page {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Pager.Previous">
+    <Value>Previous</Value>
+  </LocaleResource>
+  <LocaleResource Name="Pager.PreviousPageTitle">
+    <Value>Previous Page</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.Account">
+    <Value>Account</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.AccountActivation">
+    <Value>Account Activation</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.AllProductTags">
+    <Value>All product tags</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.BackInStockSubscriptions">
+    <Value>Back in stock subscriptions</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.Blog">
+    <Value>Blog</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.Checkout">
+    <Value>Thanh toán</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.CompareProducts">
+    <Value>Compare Products</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.ContactUs">
+    <Value>Liên hệ</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.ContactVendor">
+    <Value>Contact Vendor - {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="pagetitle.customerproductreviews">
+    <Value>Đánh giá của bạn</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.ForumSubscriptions">
+    <Value>Forum Subscriptions</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.Login">
+    <Value>Đăng nhập</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.Manufacturers">
+    <Value>Hãng sản xuất</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.NewProducts">
+    <Value>New Products</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.NewsArchive">
+    <Value>News Archive</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.OrderDetails">
+    <Value>Order Details</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.PageNotFound">
+    <Value>Không tìm thấy trang này</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.PasswordRecovery">
+    <Value>Password Recovery</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.PrivateMessages">
+    <Value>Tin nhắn riêng</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.ProductEmailAFriend">
+    <Value>Email A Friend</Value>
+  </LocaleResource>
+  <LocaleResource Name="pagetitle.productreviews">
+    <Value>Đánh giá sản phẩm</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.ProductsByTag">
+    <Value>Products tagged with '{0}'</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.Profile">
+    <Value>Profile</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.RecentlyAddedProducts">
+    <Value>Recently Added Products</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.RecentlyViewedProducts">
+    <Value>Xem gần đây</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.Register">
+    <Value>Đăng ký</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.ReturnItems">
+    <Value>Return Item(s)</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.Search">
+    <Value>Search</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.SendPM">
+    <Value>Post a private message</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.ShipmentDetails">
+    <Value>Shipment details</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.ShoppingCart">
+    <Value>Giỏ hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.Sitemap">
+    <Value>Sơ đồ</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.StoreClosed">
+    <Value>Store closed</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.VendorInfo">
+    <Value>Vendor info</Value>
+  </LocaleResource>
+  <LocaleResource Name="pagetitle.vendors">
+    <Value>Nhà cung cấp</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.Vendors.Apply">
+    <Value>Tài khoản nhà cung cấp</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.ViewPM">
+    <Value>View the private message</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.Wishlist">
+    <Value>Wishlist</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.WishlistEmailAFriend">
+    <Value>Email wishlist to a friend</Value>
+  </LocaleResource>
+  <LocaleResource Name="Payment.CardCode">
+    <Value>Card code</Value>
+  </LocaleResource>
+  <LocaleResource Name="Payment.CardCode.Required">
+    <Value>Enter card code</Value>
+  </LocaleResource>
+  <LocaleResource Name="Payment.CardCode.Wrong">
+    <Value>Wrong card code</Value>
+  </LocaleResource>
+  <LocaleResource Name="Payment.CardholderName">
+    <Value>Cardholder name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Payment.CardholderName.Required">
+    <Value>Enter cardholder name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Payment.CardNumber">
+    <Value>Card number</Value>
+  </LocaleResource>
+  <LocaleResource Name="Payment.CardNumber.Required">
+    <Value>Enter card number</Value>
+  </LocaleResource>
+  <LocaleResource Name="Payment.CardNumber.Wrong">
+    <Value>Wrong card number</Value>
+  </LocaleResource>
+  <LocaleResource Name="Payment.ExpirationDate">
+    <Value>Expiration date</Value>
+  </LocaleResource>
+  <LocaleResource Name="Payment.ExpireMonth.Required">
+    <Value>Expire month is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Payment.ExpireYear.Required">
+    <Value>Expire year is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Payment.SelectCreditCard">
+    <Value>Select credit card</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Address">
+    <Value>Address: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Address2">
+    <Value>Address 2: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.BillingInformation">
+    <Value>Billing Information:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Company">
+    <Value>Company: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.CreatedOn">
+    <Value>Created on</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Discount">
+    <Value>Discount:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Fax">
+    <Value>Fax: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.GiftCardInfo">
+    <Value>Gift card ({0}):</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Name">
+    <Value>Name: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Note">
+    <Value>Note</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Order#">
+    <Value>Order# {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.OrderDate">
+    <Value>Date: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.OrderNotes">
+    <Value>Order notes:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.OrderNotes.CreatedOn">
+    <Value>Created on</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.OrderNotes.Note">
+    <Value>Note</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.OrderTotal">
+    <Value>Tổng tiền đơn hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.PaymentMethod">
+    <Value>Payment method: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.PaymentMethodAdditionalFee">
+    <Value>Payment Method Additional Fee:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Phone">
+    <Value>Phone: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Pickup">
+    <Value>Pickup point:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Product(s)">
+    <Value>Product(s)</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.ProductName">
+    <Value>Name</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.ProductPrice">
+    <Value>Price</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.ProductQuantity">
+    <Value>Qty</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.ProductTotal">
+    <Value>Total</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.PurchaseOrderNumber">
+    <Value>Purchase Order Number: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.RewardPoints">
+    <Value>{0} reward points:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Shipping">
+    <Value>Shipping:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.ShippingInformation">
+    <Value>Shipping Information:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.ShippingMethod">
+    <Value>Shipping method: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.SKU">
+    <Value>SKU</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Sub-Total">
+    <Value>Sub-total:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Tax">
+    <Value>Tax:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.TaxRate">
+    <Value>Tax {0}%:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.VATNumber">
+    <Value>VAT number: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFPackagingSlip.Address">
+    <Value>Address: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFPackagingSlip.Address2">
+    <Value>Address 2: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFPackagingSlip.Company">
+    <Value>Company: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFPackagingSlip.Name">
+    <Value>Name: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFPackagingSlip.Order">
+    <Value>Order #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFPackagingSlip.Phone">
+    <Value>Phone: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFPackagingSlip.ProductName">
+    <Value>Product Name</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFPackagingSlip.QTY">
+    <Value>Quantity</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFPackagingSlip.Shipment">
+    <Value>Shipment #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFPackagingSlip.ShippingMethod">
+    <Value>Shipping method: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFPackagingSlip.SKU">
+    <Value>SKU</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFProductCatalog.Price">
+    <Value>Price</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFProductCatalog.SKU">
+    <Value>SKU</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFProductCatalog.StockQuantity">
+    <Value>Stock quantity</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFProductCatalog.Weight">
+    <Value>Weight</Value>
+  </LocaleResource>
+  <LocaleResource Name="Polls.OnlyRegisteredUsersVote">
+    <Value>Only registered users can vote.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Polls.SelectAnswer">
+    <Value>Please select an answer</Value>
+  </LocaleResource>
+  <LocaleResource Name="Polls.Title">
+    <Value>Community poll</Value>
+  </LocaleResource>
+  <LocaleResource Name="Polls.TotalVotes">
+    <Value>{0} vote(s)...</Value>
+  </LocaleResource>
+  <LocaleResource Name="Polls.Vote">
+    <Value>Bỏ phiếu</Value>
+  </LocaleResource>
+  <LocaleResource Name="Polls.VotesResultLine">
+    <Value>{0} ({1} vote(s) - {2}%)</Value>
+  </LocaleResource>
+  <LocaleResource Name="privacynotice">
+    <Value>Quyền riêng tư</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Inbox">
+    <Value>Inbox</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Inbox.DateColumn">
+    <Value>Date</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Inbox.DeleteSelected">
+    <Value>Delete selected</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Inbox.FromColumn">
+    <Value>Từ</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Inbox.MarkAsUnread">
+    <Value>Mark selected as unread</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Inbox.SubjectColumn">
+    <Value>Subject</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Inbox.ToColumn">
+    <Value>To</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.MessageCannotBeEmpty">
+    <Value>Message cannot be empty</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.PM">
+    <Value>PM</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.PrivateMessages">
+    <Value>Tin nhắn riêng</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Send.CancelButton">
+    <Value>Cancel</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Send.Message">
+    <Value>Message:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Send.PostMessage">
+    <Value>Post a Private Message</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Send.SendButton">
+    <Value>Send</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Send.Subject">
+    <Value>Subject:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Send.Subject.Required">
+    <Value>Subject is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Send.To">
+    <Value>To:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Sent.DateColumn">
+    <Value>Date</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Sent.DeleteSelected">
+    <Value>Delete selected</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Sent.SubjectColumn">
+    <Value>Subject</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.Sent.ToColumn">
+    <Value>To</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.SentItems">
+    <Value>Sent Items</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.SubjectCannotBeEmpty">
+    <Value>Subject cannot be empty</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.TotalUnread">
+    <Value>({0} Unread)</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.View.BackButton">
+    <Value>Back to messages</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.View.DeleteButton">
+    <Value>Xóa</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.View.From">
+    <Value>From:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.View.Message">
+    <Value>Message:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.View.ReplyButton">
+    <Value>Reply</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.View.Subject">
+    <Value>Subject:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.View.To">
+    <Value>To:</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.View.ViewMessage">
+    <Value>View Message</Value>
+  </LocaleResource>
+  <LocaleResource Name="PrivateMessages.YouHaveUnreadPM">
+    <Value>You have {0} unread message(s) in your Inbox</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.AlsoPurchased">
+    <Value>Những người mua sản phẩm trên cũng mua</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Availability">
+    <Value>Có sẵn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Availability.Backordering">
+    <Value>Out of Stock - on backorder and will be dispatched once in stock.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Availability.InStock">
+    <Value>Trong kho</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Availability.InStockWithQuantity">
+    <Value>{0} trong kho</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Availability.OutOfStock">
+    <Value>Out of stock</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.BasePrice">
+    <Value>equates to {0} per {1} {2}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Breadcrumb.Top">
+    <Value>Home</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.CallForPrice">
+    <Value>Gọi để biết giá</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Compare">
+    <Value>Compare products</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Compare.AddToCompareList">
+    <Value>Thêm vào so sánh</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Compare.Clear">
+    <Value>Clear list</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Compare.FullDescription">
+    <Value>Full description</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Compare.List">
+    <Value>Danh sách so sánh</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Compare.Name">
+    <Value>Tên</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Compare.NoDescription">
+    <Value>No description!</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Compare.NoItems">
+    <Value>You have no items to compare.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Compare.Picture">
+    <Value>Picture</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Compare.Price">
+    <Value>Giá</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Compare.ShortDescription">
+    <Value>Short description</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Compare.Title">
+    <Value>Compare products</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.DeliveryDate">
+    <Value>Delivery date</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Details">
+    <Value>Chi tiết</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Discontinued">
+    <Value>Sorry - this product is no longer available</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.DownloadSample">
+    <Value>Download sample</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EmailAFriend">
+    <Value>Gửi email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EmailAFriend.Button">
+    <Value>Send email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EmailAFriend.FriendEmail">
+    <Value>Friend's email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EmailAFriend.FriendEmail.Hint">
+    <Value>Enter friend's email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EmailAFriend.FriendEmail.Required">
+    <Value>Enter friend's email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EmailAFriend.OnlyRegisteredUsers">
+    <Value>Only registered customers can use email a friend feature</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EmailAFriend.PersonalMessage">
+    <Value>Personal message</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EmailAFriend.PersonalMessage.Hint">
+    <Value>Enter personal message (optional)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EmailAFriend.SuccessfullySent">
+    <Value>Your message has been sent.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EmailAFriend.Title">
+    <Value>Email a friend</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EmailAFriend.YourEmailAddress">
+    <Value>Your email address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EmailAFriend.YourEmailAddress.Hint">
+    <Value>Enter your email address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EmailAFriend.YourEmailAddress.Required">
+    <Value>Enter your email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EnterProductPrice">
+    <Value>Please enter your price</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.EnterProductPrice.Range">
+    <Value>The price must be from {0} to {1}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.ExclTaxSuffix">
+    <Value>{0} excl tax</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.FeaturedProducts">
+    <Value>Sản phẩm nổi bật</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.FreeShipping">
+    <Value>Giao hàng miễn phí</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.GiftCard.Message">
+    <Value>Message</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.GiftCard.RecipientEmail">
+    <Value>Recipient's Email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.GiftCard.RecipientName">
+    <Value>Recipient's Name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.GiftCard.SenderEmail">
+    <Value>Your Email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.GiftCard.SenderName">
+    <Value>Your Name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.GTIN">
+    <Value>GTIN</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.InclTaxSuffix">
+    <Value>{0} incl tax</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Manufacturer">
+    <Value>Nhà sản xuất</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.ManufacturerPartNumber">
+    <Value>Manufacturer part number</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Manufacturers">
+    <Value>Hãng sản xuất</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.MinimumQuantityNotification">
+    <Value>This product has a minimum quantity of {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.NewProducts">
+    <Value>Sản phẩm mới</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.NewProducts.RSS">
+    <Value>RSS</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.NewProducts.RSS.Hint">
+    <Value>Click here to be informed automatically when we add new items to our site</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.NoAssociatedProducts">
+    <Value>This product is sold out</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Price">
+    <Value>Giá</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Price.OldPrice">
+    <Value>Giá cũ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Price.Rental.Days">
+    <Value>{0} per {1} day(s)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Price.Rental.Months">
+    <Value>{0} per {1} month(s)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Price.Rental.Weeks">
+    <Value>{0} per {1} week(s)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Price.Rental.Years">
+    <Value>{0} per {1} year(s)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Price.RentalPrice">
+    <Value>Rental price</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Price.TaxShipping.ExclTax">
+    <Value>excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Price.TaxShipping.InclTax">
+    <Value>excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Price.WithDiscount">
+    <Value>Giá của bạn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.PriceRangeFrom">
+    <Value>Từ {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.ProductAttributes.PriceAdjustment">
+    <Value>{0} [{1}]</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.ProductHasBeenAddedToCompareList">
+    <Value>Sản phẩm được thêm vào danh sách so sánh</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.ProductHasBeenAddedToCompareList.Link">
+    <Value>The product has been added to your &lt;a href="{0}"&gt;product comparison&lt;/a&gt;</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.ProductHasBeenAddedToTheCart">
+    <Value>Sản phẩm được thêm vào giỏ hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.ProductHasBeenAddedToTheCart.Link">
+    <Value>Sản phẩm được thêm vào &lt;a href="{0}"&gt;giỏ hàng&lt;/a&gt;</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.ProductHasBeenAddedToTheWishlist">
+    <Value>Sản phẩm được thêm vào yêu thích</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.ProductHasBeenAddedToTheWishlist.Link">
+    <Value>Sản phẩm được thêm vào &lt;a href="{0}"&gt;yêu thích&lt;/a&gt;</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Qty">
+    <Value>Số lượng</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.RecentlyViewedProducts">
+    <Value>Xem gần đây</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.RelatedProducts">
+    <Value>Sản phẩm liên quan</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.RentalEndDate">
+    <Value>End date</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.RentalStartDate">
+    <Value>Start date</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Sku">
+    <Value>SKU</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Specs">
+    <Value>Thuộc tính sản phẩm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Tags">
+    <Value>Tag sản phẩm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Tags.All">
+    <Value>All product tags</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Tags.Count">
+    <Value>({0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Tags.Popular">
+    <Value>Popular tags</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Tags.Popular.ViewAll">
+    <Value>Tất cả</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Tags.ProductsTaggedWith">
+    <Value>Products tagged with '{0}'</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.TierPrices">
+    <Value>PRICE BREAKS - The more you buy, the more you save</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.TierPrices.Price">
+    <Value>Giá</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.TierPrices.Quantity">
+    <Value>Số lượng</Value>
+  </LocaleResource>
+  <LocaleResource Name="products.vendor">
+    <Value>Nhà cung cấp</Value>
+  </LocaleResource>
+  <LocaleResource Name="Profile.Country">
+    <Value>Country</Value>
+  </LocaleResource>
+  <LocaleResource Name="Profile.DateOfBirth">
+    <Value>Ngày sinh</Value>
+  </LocaleResource>
+  <LocaleResource Name="Profile.FullName">
+    <Value>Full Name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Profile.JoinDate">
+    <Value>Join Date</Value>
+  </LocaleResource>
+  <LocaleResource Name="Profile.LatestPosts">
+    <Value>Latest Posts</Value>
+  </LocaleResource>
+  <LocaleResource Name="Profile.LatestPosts.NoPosts">
+    <Value>No posts found</Value>
+  </LocaleResource>
+  <LocaleResource Name="Profile.PersonalInfo">
+    <Value>Profile Info</Value>
+  </LocaleResource>
+  <LocaleResource Name="Profile.PostedOn">
+    <Value>Posted</Value>
+  </LocaleResource>
+  <LocaleResource Name="Profile.ProfileOf">
+    <Value>Profile: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Profile.Statistics">
+    <Value>Statistics</Value>
+  </LocaleResource>
+  <LocaleResource Name="Profile.Topic">
+    <Value>Topic</Value>
+  </LocaleResource>
+  <LocaleResource Name="Profile.TotalPosts">
+    <Value>Total Posts</Value>
+  </LocaleResource>
+  <LocaleResource Name="ReturnRequests.Comments">
+    <Value>Comments</Value>
+  </LocaleResource>
+  <LocaleResource Name="ReturnRequests.NoItemsSubmitted">
+    <Value>Your return request has not been submitted because you haven't chosen any items.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ReturnRequests.Products.Name">
+    <Value>Product</Value>
+  </LocaleResource>
+  <LocaleResource Name="ReturnRequests.Products.Price">
+    <Value>Unit price</Value>
+  </LocaleResource>
+  <LocaleResource Name="ReturnRequests.Products.Quantity">
+    <Value>Qty. to return</Value>
+  </LocaleResource>
+  <LocaleResource Name="ReturnRequests.ReturnAction">
+    <Value>Return action</Value>
+  </LocaleResource>
+  <LocaleResource Name="ReturnRequests.ReturnReason">
+    <Value>Return reason</Value>
+  </LocaleResource>
+  <LocaleResource Name="ReturnRequests.SelectProduct(s)">
+    <Value>Which items do you want to return?</Value>
+  </LocaleResource>
+  <LocaleResource Name="ReturnRequests.Submit">
+    <Value>Submit return request</Value>
+  </LocaleResource>
+  <LocaleResource Name="ReturnRequests.Submitted">
+    <Value>Your return request has been submitted successfully.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ReturnRequests.Title">
+    <Value>Return item(s) from order #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="ReturnRequests.WhyReturning">
+    <Value>Why are you returning these items?</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews">
+    <Value>Reviews</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Date">
+    <Value>Date</Value>
+  </LocaleResource>
+  <LocaleResource Name="reviews.existingreviews">
+    <Value>Đánh giá khác</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Fields.Rating">
+    <Value>Đánh giá</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Fields.Rating.Bad">
+    <Value>Tệ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Fields.Rating.Excellent">
+    <Value>Xuất sắc</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Fields.ReviewText">
+    <Value>Nội dung</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Fields.ReviewText.Required">
+    <Value>Review text is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Fields.Title">
+    <Value>Tiêu đề</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Fields.Title.MaxLengthValidation">
+    <Value>Max length of product review title is {0} chars</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Fields.Title.Required">
+    <Value>Review title is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.From">
+    <Value>Từ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Helpfulness.OnlyRegistered">
+    <Value>Only registered customers can set review helpfulness</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Helpfulness.SuccessfullyVoted">
+    <Value>Successfully voted</Value>
+  </LocaleResource>
+  <LocaleResource Name="reviews.helpfulness.washelpful?">
+    <Value>Đánh giá này có hữu ích?</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Helpfulness.YourOwnReview">
+    <Value>You cannot vote for your own review</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.OnlyRegisteredUsersCanWriteReviews">
+    <Value>Only registered users can write reviews</Value>
+  </LocaleResource>
+  <LocaleResource Name="reviews.overview.addnew">
+    <Value>Gửi đánh giá</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Overview.First">
+    <Value>Là người đầu tiên đánh giá sản phẩm này</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Overview.Reviews">
+    <Value>nhận xét</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.ProductReviewsFor">
+    <Value>Product reviews for</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.SeeAfterApproving">
+    <Value>You will see the product review after approving by a store administrator.</Value>
+  </LocaleResource>
+  <LocaleResource Name="reviews.submitbutton">
+    <Value>Gửi đánh giá</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.SuccessfullyAdded">
+    <Value>Bạn đã đánh giá sản phẩm hành công.</Value>
+  </LocaleResource>
+  <LocaleResource Name="reviews.totalreviews">
+    <Value>{0} đánh giá</Value>
+  </LocaleResource>
+  <LocaleResource Name="reviews.write">
+    <Value>Đánh giá của bạn</Value>
+  </LocaleResource>
+  <LocaleResource Name="RewardPoints.CurrentBalance">
+    <Value>Số dư hiện tại của bạn {0} điểm thưởng ({1}).</Value>
+  </LocaleResource>
+  <LocaleResource Name="RewardPoints.Fields.Date">
+    <Value>Date</Value>
+  </LocaleResource>
+  <LocaleResource Name="RewardPoints.Fields.Message">
+    <Value>Message</Value>
+  </LocaleResource>
+  <LocaleResource Name="RewardPoints.Fields.Points">
+    <Value>Points</Value>
+  </LocaleResource>
+  <LocaleResource Name="RewardPoints.Fields.PointsBalance">
+    <Value>Points balance</Value>
+  </LocaleResource>
+  <LocaleResource Name="RewardPoints.History">
+    <Value>Lịch sử</Value>
+  </LocaleResource>
+  <LocaleResource Name="RewardPoints.Message.EarnedForOrder">
+    <Value>Earned promotion for order #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="RewardPoints.Message.EarnedForRegistration">
+    <Value>Registered as customer</Value>
+  </LocaleResource>
+  <LocaleResource Name="RewardPoints.Message.RedeemedForOrder">
+    <Value>Redeemed for order #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="RewardPoints.Message.ReducedForOrder">
+    <Value>Reduced promotion for order #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="RewardPoints.Message.ReturnedForOrder">
+    <Value>Returned back for order #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="RewardPoints.MinimumBalance">
+    <Value>Minimum balance allowed to use is {0} reward points ({1}).</Value>
+  </LocaleResource>
+  <LocaleResource Name="RewardPoints.NoHistory">
+    <Value>Chưa có lịch sử số dư</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search">
+    <Value>Tìm kiếm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.AdvancedSearch">
+    <Value>Tùy chọn tìm kiếm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.Button">
+    <Value>Tìm kiếm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.Category">
+    <Value>Danh mục</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.EnterSearchTerms">
+    <Value>Vui lòng nhập từ khóa muốn kiếm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.IncludeSubCategories">
+    <Value>Tự động tìm kiếm các danh mục con</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.Manufacturer">
+    <Value>Nhà sản xuất</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.NoResultsText">
+    <Value>Không có sản phẩm phù hợp với tìm kiếm của bạn.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.PriceRange">
+    <Value>Phạm vi giá</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.PriceRange.From">
+    <Value>Từ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.PriceRange.To">
+    <Value>đến</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.SearchBox.Tooltip">
+    <Value>Máy chủ, mạng, linh kiện..</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.SearchInDescriptions">
+    <Value>Tìm trong mô tả sản phẩm</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.SearchTerm">
+    <Value>Nhập từ khóa</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.SearchTermMinimumLengthIsNCharacters">
+    <Value>Search term minimum length is {0} characters</Value>
+  </LocaleResource>
+  <LocaleResource Name="Search.Vendor">
+    <Value>Vendor</Value>
+  </LocaleResource>
+  <LocaleResource Name="shippingreturns">
+    <Value>Giao &amp; trả hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart">
+    <Value>Giỏ hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.AddToCart">
+    <Value>Thêm vào giỏ</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.AddToCart.Update">
+    <Value>Update</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.AddToCompareList">
+    <Value>Thêm vào so sánh</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.AddToWishlist">
+    <Value>Thêm vào yêu thích</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.AddToWishlist.Update">
+    <Value>Update</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.AllowedQuantities">
+    <Value>Allowed quantities for this product: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.AssociatedAttributeWarning">
+    <Value>{0}. {1}. {2}</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.BuyingDisabled">
+    <Value>Buying is disabled for this product</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.CannotLoadProduct">
+    <Value>Product (Id={0}) cannot be loaded</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.CannotMixStandardAndAutoshipProducts">
+    <Value>Your cart has standard and auto-ship (recurring) items. Only one product type is allowed per order.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.CartIsEmpty">
+    <Value>Giỏ hàng chưa bạn chưa có gì!</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.CheckoutAttributes.PriceAdjustment">
+    <Value>{0} [{1}]</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.ConflictingShipmentSchedules">
+    <Value>Your cart has auto-ship (recurring) items with conflicting shipment schedules. Only one auto-ship schedule is allowed
+      per order.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.ContinueShopping">
+    <Value>Tiếp tục mua sắm</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.CrossSells">
+    <Value>Những sản phẩm khác bạn có thể quan tâm</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.CustomerEnteredPrice.RangeError">
+    <Value>The price must be from {0} to {1}</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Discount.CannotBeUsedAnymore">
+    <Value>Sorry, you've used this discount already</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Discount.CannotBeUsedWithGiftCards">
+    <Value>Sorry, this discount cannot be used with gift cards in the cart</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Discount.Expired">
+    <Value>Sorry, this offer is expired</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Discount.NotStartedYet">
+    <Value>Sorry, this offer is not started yet</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.DiscountCouponCode">
+    <Value>Discount Code</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.DiscountCouponCode.Applied">
+    <Value>The coupon code was applied</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.DiscountCouponCode.Button">
+    <Value>Apply coupon</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.DiscountCouponCode.CurrentCode">
+    <Value>Entered coupon code - {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.DiscountCouponCode.Tooltip">
+    <Value>Enter your coupon here</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.DiscountCouponCode.WrongDiscount">
+    <Value>The coupon code you entered couldn't be applied to your order</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.EstimateShipping">
+    <Value>Estimate shipping</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.EstimateShipping.Button">
+    <Value>Estimate shipping</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.EstimateShipping.Country">
+    <Value>Country</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.EstimateShipping.ShippingOptionWithRate">
+    <Value>{0} ({1})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.EstimateShipping.StateProvince">
+    <Value>State / province</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.EstimateShipping.Tooltip">
+    <Value>Enter your destination to get a shipping estimate</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.EstimateShipping.ZipPostalCode">
+    <Value>Zip / postal code</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.FileUploaded">
+    <Value>Your file successfully uploaded!</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.GiftCardCouponCode">
+    <Value>Gift Cards</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.GiftCardCouponCode.Applied">
+    <Value>The gift card code was applied</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.GiftCardCouponCode.Button">
+    <Value>Add gift card</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.GiftCardCouponCode.DontWorkWithAutoshipProducts">
+    <Value>You cannot use gift cards with auto-ship (recurring) items.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.GiftCardCouponCode.Tooltip">
+    <Value>Enter gift card code</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.GiftCardCouponCode.WrongGiftCard">
+    <Value>The coupon code you entered couldn't be applied to your order</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.HeaderQuantity">
+    <Value>({0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Image">
+    <Value>Hình ảnh</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.ItemTotal">
+    <Value>Tổng</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.ItemYouSave">
+    <Value>Bạn tiết kiệm</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.MaximumQuantity">
+    <Value>The maximum quantity allowed for purchase is {0}.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.MaximumShoppingCartItems">
+    <Value>The maximum number of distinct products allowed in the cart is {0}.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.MaximumUploadedFileSize">
+    <Value>Maximum file size is {0} KB</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.MaximumWishlistItems">
+    <Value>The maximum number of distinct products allowed in the wishlist is {0}.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Mini.Items">
+    <Value>{0} sản phẩm</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Mini.ItemsText">
+    <Value>Có {0} trong giỏ.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Mini.NoItems">
+    <Value>Bạn chưa có mặt hàng nào trong giỏ.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Mini.Quantity">
+    <Value>Số lượng</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Mini.UnitPrice">
+    <Value>Đơn giá</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Mini.ViewCart">
+    <Value>Xem giỏ hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.MinimumQuantity">
+    <Value>The minimum quantity allowed for purchase is {0}.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.NotAvailable">
+    <Value>Product is not available</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.OutOfStock">
+    <Value>Out of stock</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.PreOrder">
+    <Value>Đặt hàng trước</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Product(s)">
+    <Value>Sản phẩm</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.ProductDeleted">
+    <Value>Sản phẩm này đã bị xóa</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.ProductUnpublished">
+    <Value>Product is not published</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Quantity">
+    <Value>Số lượng</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.QuantityExceedsStock">
+    <Value>Your quantity exceeds stock on hand. The maximum quantity that can be added is {0}.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.QuantityShouldPositive">
+    <Value>Quantity should be positive</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.RecipientEmailError">
+    <Value>Enter valid recipient email</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.RecipientNameError">
+    <Value>Enter valid recipient name</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.RecurringPeriod">
+    <Value>[Auto-ship, Every {0} {1}]</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Remove">
+    <Value>Xóa</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Rent">
+    <Value>Rent</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Rental.EnterEndDate">
+    <Value>Enter rental end date</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Rental.EnterStartDate">
+    <Value>Enter rental start date</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Rental.FormattedDate">
+    <Value>Start date: {0}. End date: {1}.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Rental.StartDateLessEndDate">
+    <Value>Rental start date should be less than end date</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Rental.StartDateShouldBeFuture">
+    <Value>Rental start date should be the future date</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.RequiredProductWarning">
+    <Value>This product requires the following product is added to the cart: {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.SelectAttribute">
+    <Value>Please select {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.SenderEmailError">
+    <Value>Enter valid sender email</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.SenderNameError">
+    <Value>Enter valid sender name</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.SKU">
+    <Value>SKU</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.TaxShipping.ExclTax">
+    <Value>Tất cả giá trên chưa bao gồm thuế GTGT. Được &lt;a href="{0}"&gt;vận chuyển miễn phí&lt;/a&gt; trong nội thành TP.HCM
+      và Hà Nội</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.TaxShipping.InclTax">
+    <Value>All prices are entered including tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.TextboxMaximumLength">
+    <Value>{0} : maximum length is {1} chars</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.TextboxMinimumLength">
+    <Value>{0} : minimum length is {1} chars</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.CalculatedDuringCheckout">
+    <Value>Calculated during checkout</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.GiftCardInfo">
+    <Value>Gift Card ({0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.GiftCardInfo.Code">
+    <Value>({0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.GiftCardInfo.Remaining">
+    <Value>{0} remaining</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.OrderTotal">
+    <Value>Tổng tiền đơn hàng</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.OrderTotalDiscount">
+    <Value>Discount</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.PaymentMethodAdditionalFee">
+    <Value>Payment method additional fee</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.RewardPoints">
+    <Value>{0} reward points</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.RewardPoints.WillEarn">
+    <Value>You will earn</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.RewardPoints.WillEarn.Point">
+    <Value>{0} points</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.Shipping">
+    <Value>Vận chuyển</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.Shipping.Method">
+    <Value>({0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.Shipping.NotRequired">
+    <Value>Not required</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.SubTotal">
+    <Value>Tổng tiền</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.SubTotalDiscount">
+    <Value>Discount</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.Tax">
+    <Value>VAT</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.Totals.TaxRateLine">
+    <Value>Tax {0}%</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.UnitPrice">
+    <Value>Giá</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.UpdateCart">
+    <Value>Cập nhật giỏ</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.UpdateCartItem">
+    <Value>Update qty</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.WishlistDisabled">
+    <Value>Wishlist is disabled for this product</Value>
+  </LocaleResource>
+  <LocaleResource Name="Sitemap">
+    <Value>Sơ đồ</Value>
+  </LocaleResource>
+  <LocaleResource Name="Sitemap.Categories">
+    <Value>Categories</Value>
+  </LocaleResource>
+  <LocaleResource Name="Sitemap.Description">
+    <Value>View the sitemap for this website below, with links to each of the pages and brief descriptions of what to find in each
+      section</Value>
+  </LocaleResource>
+  <LocaleResource Name="Sitemap.General">
+    <Value>General</Value>
+  </LocaleResource>
+  <LocaleResource Name="Sitemap.Manufacturers">
+    <Value>Manufacturers</Value>
+  </LocaleResource>
+  <LocaleResource Name="Sitemap.Products">
+    <Value>Products</Value>
+  </LocaleResource>
+  <LocaleResource Name="StoreClosed">
+    <Value>This store is currently closed</Value>
+  </LocaleResource>
+  <LocaleResource Name="StoreClosed.Hint">
+    <Value>Please check back in a little while.</Value>
+  </LocaleResource>
+  <LocaleResource Name="StoreTheme">
+    <Value>Select store theme</Value>
+  </LocaleResource>
+  <LocaleResource Name="Tax.Exclusive">
+    <Value>Show prices tax exclusive</Value>
+  </LocaleResource>
+  <LocaleResource Name="Tax.Inclusive">
+    <Value>Show prices tax inclusive</Value>
+  </LocaleResource>
+  <LocaleResource Name="Tax.SelectType">
+    <Value>Tax display type</Value>
+  </LocaleResource>
+  <LocaleResource Name="Topic.Button">
+    <Value>Enter</Value>
+  </LocaleResource>
+  <LocaleResource Name="Topic.EnterPassword">
+    <Value>Please enter password to access this content:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Topic.WrongPassword">
+    <Value>Wrong password</Value>
+  </LocaleResource>
+  <LocaleResource Name="vendors">
+    <Value>Nhà cung cấp</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.ApplyAccount">
+    <Value>Tài khoản nhà cung cấp</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.ApplyAccount.AlreadyApplied">
+    <Value>You already applied for a vendor account. Please register as a new customer in order to apply for one more vendor account.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.ApplyAccount.Button">
+    <Value>Gửi</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.ApplyAccount.Description">
+    <Value>Description</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.ApplyAccount.Email">
+    <Value>Email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.ApplyAccount.Email.Hint">
+    <Value>Enter your email address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.ApplyAccount.Email.Required">
+    <Value>Email is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.ApplyAccount.Name">
+    <Value>Vendor name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.ApplyAccount.Name.Hint">
+    <Value>Enter vendor name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.ApplyAccount.Name.Required">
+    <Value>Vendor name is required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.ApplyAccount.Picture">
+    <Value>Picture</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.ApplyAccount.Picture.ErrorMessage">
+    <Value>You can add only picture file</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.ApplyAccount.Submitted">
+    <Value>Bạn đã gửi yêu cầu thành công. Chúng tôi sẽ liên hệ với bạn</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.List">
+    <Value>Vendor List</Value>
+  </LocaleResource>
+  <LocaleResource Name="Vendors.ViewAll">
+    <Value>View all</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist">
+    <Value>Yêu thích</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.AddToCart.Error">
+    <Value>Some product(s) from wishlist could not be moved to the cart for some reasons.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.CartIsEmpty">
+    <Value>Danh sách yêu thích đang trống!</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.EmailAFriend">
+    <Value>Email a friend</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.EmailAFriend.Button">
+    <Value>Send email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.EmailAFriend.FriendEmail">
+    <Value>Friend's email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.EmailAFriend.FriendEmail.Hint">
+    <Value>Enter friend's email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.EmailAFriend.FriendEmail.Required">
+    <Value>Enter friend's email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.EmailAFriend.OnlyRegisteredUsers">
+    <Value>Only registered customers can use email a friend feature</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.EmailAFriend.PersonalMessage">
+    <Value>Personal message</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.EmailAFriend.PersonalMessage.Hint">
+    <Value>Enter personal message (optional)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.EmailAFriend.SuccessfullySent">
+    <Value>Your message has been sent.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.EmailAFriend.Title">
+    <Value>Email your wishlist to a friend</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.EmailAFriend.YourEmailAddress">
+    <Value>Your email address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.EmailAFriend.YourEmailAddress.Hint">
+    <Value>Enter your email address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.EmailAFriend.YourEmailAddress.Required">
+    <Value>Enter your email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.HeaderQuantity">
+    <Value>({0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.TaxShipping.ExclTax">
+    <Value>Tất cả giá trên chưa bao gồm thuế GTGT. Được &lt;a href="{0}"&gt;vận chuyển miễn phí&lt;/a&gt; trong nội thành TP.HCM
+      và Hà Nội</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.TaxShipping.InclTax">
+    <Value>All prices are entered including tax. Excluding &lt;a href="{0}"&gt;shipping&lt;/a&gt;</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.UpdateCart">
+    <Value>Cập nhập</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.WishlistOf">
+    <Value>Wishlist of {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Wishlist.YourWishlistURL">
+    <Value>Liên kết chia sẻ danh sách yêu thích của bạn</Value>
+  </LocaleResource>
+</Language>
