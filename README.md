@@ -18,4 +18,4 @@ nopCommerce Vietnamese Documentation: http://docs.nopviet.com/
 # Sreenshot about front end (store) and admin area
 Front End | Admin area
 ----|------
-![ScreenShot](http://www.nopcommerce.com/images/demo/demo3.png) | ![ScreenShot](http://www.nopcommerce.com/images/demo/admindemo_500.png)
+[![ScreenShot](http://www.nopcommerce.com/images/demo/demo3.png)](http://nopviet.com/) | [![ScreenShot](http://www.nopcommerce.com/images/demo/admindemo_500.png)](http://nopviet.com/)
